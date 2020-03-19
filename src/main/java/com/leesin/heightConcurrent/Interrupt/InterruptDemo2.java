@@ -16,8 +16,9 @@ public class InterruptDemo2 {
             while (true) {
                 if (Thread.currentThread().isInterrupted()) {
                     System.out.println("before:"+Thread.currentThread().isInterrupted());
-                    //对线程进行复位
-                    Thread.interrupted();
+                    //对线程进行复位，并返回清除状态之前的值，即复位之前的值。
+                    boolean interrupted = Thread.interrupted();
+                    System.out.println("interrupted:"+interrupted);
                     System.out.println("after:" + Thread.currentThread().isInterrupted());
                 }
             }
