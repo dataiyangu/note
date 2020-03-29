@@ -25,5 +25,11 @@ public class FibonacciDemo {
             System.out.print((hashCode&(size-1))+" ");
         }
         System.out.println();
+        //
+        hashCode = 3 * HASH_INCREMENT + HASH_INCREMENT;
+        System.out.print((hashCode&(size-1))+" ");
+
+        System.out.println();
+
     }
 }
