@@ -67,7 +67,11 @@ public class ThreadStatus {
             {
                 while (flag)
                 {
-                    this.wait();
+                    try {
+                        this.wait();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                 }
             }
         }

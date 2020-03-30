@@ -1,5 +1,6 @@
 package com.leesin.distributed.serializable;
 
+
 /**
  * @description:
  * @author: Leesin.Dong
@@ -9,7 +10,11 @@ package com.leesin.distributed.serializable;
  */
 public class SerialDemo {
     public static void main(String[] args) {
-        ISerializer iSerializer = new JavaSerializerWriteFile();
+        // ISerializer iSerializer = new JavaSerializerWriteFile();
+        //xml格式方便阅读
+        // ISerializer iSerializer = new XStreamSerializer();
+        ISerializer iSerializer = new FastJsonSerilizer();
+
         User user = new User();
         user.setName("leesin");
         user.setAge(1);
@@ -21,8 +26,23 @@ public class SerialDemo {
         //说明即使不加这句话,也会默认生成一个UID,但是和通过idea生成的不一样,
         //序列化是通过serialVersionUID验证版本一致性的.
 
-        iSerializer.serialize(user);
-        User user1 = iSerializer.deSerialize(null, null);
+        //文件的不用传
+        // iSerializer.serialize(user);
+        // User user1 = iSerializer.deSerialize(null, null);
+        // System.out.println(user1);
+
+        //xml
+        // byte[] bytes = iSerializer.serialize(user);
+        // System.out.println(new String(bytes));
+        // System.out.println(bytes.length);
+        // User user1 = iSerializer.deSerialize(bytes, null);
+        // System.out.println(user1);
+
+        //json
+        byte[] bytes = iSerializer.serialize(user);
+        System.out.println(new String(bytes));
+        System.out.println(bytes.length);
+        User user1 = iSerializer.deSerialize(bytes, User.class);
         System.out.println(user1);
     }
 }
