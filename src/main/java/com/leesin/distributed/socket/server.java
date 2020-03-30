@@ -37,7 +37,6 @@ public class server {
             // 函数来读写数据，就像往一个文件流里面写东西一
             // 样
             bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-
             System.out.println(bufferedReader.readLine());
         } catch (IOException e) {
             e.printStackTrace();
