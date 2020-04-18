@@ -41,7 +41,7 @@ public class NIOServerDemo {
 
         //轮训器打开,大堂经理开始营业
         selector = Selector.open();
-        //将selector注册到serverSocketChannel,大堂经理到了大厅准备工作了.
+        //将serverSocketChannel注册到selector,大堂经理到了大厅准备工作了.
         serverSocketChannel.register(selector, SelectionKey.OP_ACCEPT);
     }
 

@@ -1,0 +1,1 @@
+curator基本操作、权限控制、watcher
