@@ -464,7 +464,7 @@
       <workItem from="1587212334555" duration="3619000" />
       <workItem from="1587219579450" duration="7781000" />
       <workItem from="1587452295414" duration="4220000" />
-      <workItem from="1587519652820" duration="33000" />
+      <workItem from="1587519652820" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -498,7 +498,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78999000" />
+    <option name="totallyTimeSpent" value="79635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1803" y="0" width="1644" height="1417" extended-state="0" />
@@ -520,7 +520,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49937966" weight="0.3024162" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2961808" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5042868" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50062037" side_tool="true" weight="0.3024162" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32969603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
