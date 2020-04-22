@@ -18,7 +18,6 @@ public class FibonacciDemo {
     //最后的数字均衡的分布再容量范围之内，并且不会重复
     }
 
-
     private static void magicHash(int size) {
         int hashCode = 0;
         for (int i = 0; i < size; i++) {
