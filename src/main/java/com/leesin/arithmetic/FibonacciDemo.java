@@ -32,6 +32,5 @@ public class FibonacciDemo {
 
         System.out.println();
 
-
     }
 }

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -463,7 +461,7 @@
       <workItem from="1587452295414" duration="4220000" />
       <workItem from="1587519652820" duration="5822000" />
       <workItem from="1587532523395" duration="7430000" />
-      <workItem from="1587612547901" duration="6036000" />
+      <workItem from="1587612547901" duration="7151000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -497,7 +495,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98254000" />
+    <option name="totallyTimeSpent" value="99369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1714" y="0" width="1733" height="1417" extended-state="0" />
@@ -591,6 +589,11 @@
     <MESSAGE value="nio" />
     <MESSAGE value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
     <option name="LAST_COMMIT_MESSAGE" value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="477" height="366" key="Git.Branch.Popup" />
+    <state width="477" height="366" key="Git.Branch.Popup/3440.1440" />
+    <state width="477" height="366" key="Git.Branch.Popup@3440.1440" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/sixStatus/ThreadStatus.java">
