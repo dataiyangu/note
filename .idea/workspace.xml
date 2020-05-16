@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/configuration/GenericConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/configuration/PropertiesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ServerDuplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ServerDuplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/FibonacciDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/FibonacciDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ServerDuplex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ServerDuplex.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,109 +66,6 @@
     </option>
     <expand />
     <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="note" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/READEME.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="6" selection-start-column="6" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/sql/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/FibonacciDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/Interrupt/InterruptDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1488">
-              <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Maven/repository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/META-INF/services/java.sql.Driver">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/sql/DriverManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6072">
-              <caret line="284" column="18" selection-start-line="284" selection-start-column="18" selection-end-line="284" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/CuratorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/interProcessMutex/READEME.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="4" selection-start-column="4" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,63 +92,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SerialDemo.java" root0="SKIP_INSPECTION" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/basic/IteratorDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/ThreadLocal/ThreadLocalDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/threadLocal/ThreadLocalDemo.java" />
-        <option value="$PROJECT_DIR$/../JDKSourceCode1.8/src/java/util/concurrent/ThreadPoolExecutor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/executor/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/executor/Monitor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/executor/MonitorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/executor/Callable_Future.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/executor/submitDemo.java" />
-        <option value="$PROJECT_DIR$/../JDKSourceCode1.8/src/java/util/concurrent/AbstractExecutorService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/ForkJoin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/forkJoin/ForkJoinDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/forkJoin/CountTask.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/yield/YieldTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/threadLocal/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/threadLocal/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/clien.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ServerDuplex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ClientDuplext.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SocketServerProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/ISerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/JavaSerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/JavaSerializerWriteFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SocketClientConsumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/UserProtos.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/ProtobufDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/XStreamSerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/sixStatus/ThreadStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SerialDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/FastJsonSerilizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/server.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/io/bio/BIOclient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/io/bio/BIOServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/io/nio/NIOServerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkClientDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/ZkClientDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/READEME.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curatorInterprocessMutex/LockDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/interProcessMutex/LockDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/interProcessMutex/READEME.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/READEME.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/CuratorDemo.java" />
-        <option value="$PROJECT_DIR$/READEME.md" />
-        <option value="$PROJECT_DIR$/src/main/resources/READEME.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/READEME.md" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/FibonacciDemo.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -222,115 +101,35 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-        <option name="lookForNested" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="note" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="note" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1734" />
-    <option name="height" value="1417" />
-  </component>
+  <component name="ProjectId" id="1bwa802WFjlv0oqpaEJavZjr7Xw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leesin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leesin" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587549333893" />
-    <property name="last_opened_file_path" value="F:/software_installation/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -348,32 +147,7 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.FibonacciDemo">
-    <configuration name="BIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.io.bio.BIOServer" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.io.bio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PropertiesDemo">
     <configuration name="BIOclient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.io.bio.BIOclient" />
       <module name="note" />
@@ -400,12 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterruptDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.heightConcurrent.Interrupt.InterruptDemo3" />
+    <configuration name="GenericConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.configuration.GenericConfiguration" />
       <module name="note" />
+      <option name="VM_PARAMETERS" value="-Duser.age=34 -Duser.male=true" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.heightConcurrent.Interrupt.*" />
+          <option name="PATTERN" value="com.leesin.configuration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.distributed.serializable.SerialDemo" />
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.basic.IteratorDemo" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.distributed.serializable.*" />
+          <option name="PATTERN" value="com.leesin.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,13 +201,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.configuration.PropertiesDemo" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BIOclient" />
+      <item itemvalue="Application.FibonacciDemo" />
+      <item itemvalue="Application.GenericConfiguration" />
+      <item itemvalue="Application.IteratorDemo" />
+      <item itemvalue="Application.PropertiesDemo" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertiesDemo" />
+        <item itemvalue="Application.GenericConfiguration" />
+        <item itemvalue="Application.IteratorDemo" />
         <item itemvalue="Application.FibonacciDemo" />
         <item itemvalue="Application.BIOclient" />
-        <item itemvalue="Application.BIOServer" />
-        <item itemvalue="Application.SerialDemo" />
-        <item itemvalue="Application.InterruptDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +259,11 @@
       <workItem from="1587519652820" duration="5822000" />
       <workItem from="1587532523395" duration="7430000" />
       <workItem from="1587612547901" duration="9336000" />
-      <workItem from="1587629657798" duration="5060000" />
+      <workItem from="1587629657798" duration="6625000" />
+      <workItem from="1588401963860" duration="3335000" />
+      <workItem from="1589545453589" duration="237000" />
+      <workItem from="1589545709090" duration="145000" />
+      <workItem from="1589546526887" duration="9255000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -497,45 +296,8 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106614000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1734" height="1417" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832404" visible="true" weight="0.22580644" />
-      <window_info id="Structure" order="1" sideWeight="0.50167596" side_tool="true" weight="0.22831978" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5012987" side_tool="true" weight="0.22580644" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23226812" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49937966" weight="0.45518318" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.52065474" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50062037" side_tool="true" weight="0.3024162" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32969603" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24970132" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32934928" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -552,22 +314,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -586,6 +333,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rpc socket serializable" />
@@ -594,489 +342,52 @@
     <option name="LAST_COMMIT_MESSAGE" value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="477" height="366" key="Git.Branch.Popup" />
-    <state width="477" height="366" key="Git.Branch.Popup/3440.1440" />
-    <state width="477" height="366" key="Git.Branch.Popup@3440.1440" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/sixStatus/ThreadStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SerialDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/FastJsonSerilizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/io/bio.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/ISerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/io/bio/BIOclient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7248">
-          <caret line="331" column="29" selection-start-line="331" selection-start-column="29" selection-end-line="331" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/io/bio/BIOServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/nio/channels/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5952">
-          <caret line="274" column="45" selection-start-line="274" selection-start-column="45" selection-end-line="274" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/nio/channels/ServerSocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/nio/ch/SelectorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/nio/channels/SelectableChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6024">
-          <caret line="276" column="30" selection-start-line="276" selection-start-column="30" selection-end-line="276" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SocketServerProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/com/sun/org/apache/xpath/internal/functions/FuncTrue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1736">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/forkJoin/CountTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/executor/Callable_Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1272">
-          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/io/nio/NIOServerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/util/concurrent/RunnableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ServerDuplex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ClientDuplext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="16" selection-start-line="3" selection-start-column="23" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/ZkClientDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZKClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/READEME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="14" selection-start-column="14" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClientC.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClientB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/READEME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="8" selection-start-column="8" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/interProcessMutex/LockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/WatcherDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/READEME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READEME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="9" selection-start-column="9" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/AclDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/READEME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/sql/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/FibonacciDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/Interrupt/InterruptDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Maven/repository/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/META-INF/services/java.sql.Driver">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JDKSourceCode1.8/src/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6072">
-          <caret line="284" column="18" selection-start-line="284" selection-start-column="18" selection-end-line="284" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/apiStudy/CuratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/curator/interProcessMutex/READEME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>note</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8 (2)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: asm:asm:3.3.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589547000732">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
+    <state x="2357" y="599" key="DetectedRootsChooserDialog" timestamp="1589547259461">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2357" y="599" key="DetectedRootsChooserDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547259461" />
+    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1589549876268">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1589549876268" />
+    <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
+    <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
+    <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
+    <state width="1504" height="562" key="GridCell.Tab.0.bottom" timestamp="1589551913097">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1504" height="562" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
+    <state width="1504" height="562" key="GridCell.Tab.0.center" timestamp="1589551913097">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1504" height="562" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
+    <state width="1504" height="562" key="GridCell.Tab.0.left" timestamp="1589551913097">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1504" height="562" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
+    <state width="1504" height="562" key="GridCell.Tab.0.right" timestamp="1589551913097">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1504" height="562" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
+    <state x="2060" y="279" key="SettingsEditor" timestamp="1589551991234">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2060" y="279" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1589551991234" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1589551936238">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589551936238" />
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1589587510788">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1589587510788" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1589588116656">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589588116656" />
   </component>
 </project>

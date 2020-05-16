@@ -26,7 +26,7 @@ public class ZkClientDistribute implements Lock {
     //第几个进来的？
     private static AtomicInteger count = new AtomicInteger(-1);
 
-    Map<Thread, LockData> chm = new ConcurrentHashMap<>();
+    Map<Thread, LockData> chm = new ConcurrentHashMap<Thread, LockData>();
 
     public void lock() {
         //根据顺序命名
