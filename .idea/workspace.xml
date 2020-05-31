@@ -33,17 +33,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/note.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/configuration/GenericConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/configuration/PropertiesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ServerDuplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/distributed/socket/ServerDuplex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/FibonacciDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/FibonacciDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ServerDuplex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ServerDuplex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/configuration/PropertiesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/configuration/PropertiesDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,11 +108,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587549333893" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot" />
+    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/咕泡三期VIP/04.分布式与微服务/04.任务调度/01. 任务调度之Quartz/课程源码/quartz课堂源码/quartz-standalone" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -147,7 +140,7 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PropertiesDemo">
+  <component name="RunManager" selected="Application.FibonacciDemo">
     <configuration name="BIOclient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.io.bio.BIOclient" />
       <module name="note" />
@@ -223,10 +216,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciDemo" />
         <item itemvalue="Application.PropertiesDemo" />
         <item itemvalue="Application.GenericConfiguration" />
         <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.FibonacciDemo" />
         <item itemvalue="Application.BIOclient" />
       </list>
     </recent_temporary>
@@ -263,7 +256,9 @@
       <workItem from="1588401963860" duration="3335000" />
       <workItem from="1589545453589" duration="237000" />
       <workItem from="1589545709090" duration="145000" />
-      <workItem from="1589546526887" duration="9255000" />
+      <workItem from="1589546526887" duration="9286000" />
+      <workItem from="1590886943463" duration="74000" />
+      <workItem from="1590902829543" duration="1846000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -350,29 +345,45 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2357" y="599" key="DetectedRootsChooserDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547259461" />
-    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1589549876268">
+    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1590915029661">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1589549876268" />
+    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1590915029661" />
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1504" height="562" key="GridCell.Tab.0.bottom" timestamp="1589551913097">
+    <state width="1674" height="495" key="GridCell.Tab.0.bottom" timestamp="1590887017398">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1504" height="562" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
-    <state width="1504" height="562" key="GridCell.Tab.0.center" timestamp="1589551913097">
+    <state width="1674" height="495" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.0.center" timestamp="1590887017398">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1504" height="562" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
-    <state width="1504" height="562" key="GridCell.Tab.0.left" timestamp="1589551913097">
+    <state width="1674" height="495" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.0.left" timestamp="1590887017398">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1504" height="562" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
-    <state width="1504" height="562" key="GridCell.Tab.0.right" timestamp="1589551913097">
+    <state width="1674" height="495" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.0.right" timestamp="1590887017398">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1504" height="562" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1589551913097" />
+    <state width="1674" height="495" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.1.bottom" timestamp="1590887017398">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="495" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.1.center" timestamp="1590887017398">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="495" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.1.left" timestamp="1590887017398">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="495" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1674" height="495" key="GridCell.Tab.1.right" timestamp="1590887017398">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="495" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
     <state x="2060" y="279" key="SettingsEditor" timestamp="1589551991234">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
