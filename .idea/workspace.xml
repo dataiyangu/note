@@ -33,8 +33,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/basic/com/leesin/basic/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/exception/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/exception/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/exception/RejectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/exception/SafeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/integer/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/integer/TransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/refrence/PhantomRefrenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/refrence/SoftRefrenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/refrence/StrongRefrenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/refrence/WeakReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/configuration/PropertiesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/configuration/PropertiesDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,36 +55,13 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>key</find>
-      <find>channe</find>
-      <find>run</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -81,6 +69,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/leesin/exception/ExceptionDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SerialDemo.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
@@ -114,7 +103,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587549333893" />
-    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/咕泡三期VIP/04.分布式与微服务/04.任务调度/01. 任务调度之Quartz/课程源码/quartz课堂源码/quartz-standalone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apache-tomcat-8.0.11-src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -125,6 +114,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leesin.exception" />
+      <recent name="com.leesin.zookeeper.curatorInterprocessMutex" />
+      <recent name="com.leesin.distributed.serializable" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\apiStudy" />
       <recent name="F:\git_home\note\src\main\resources" />
@@ -132,21 +129,14 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\interProcessMutex" />
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.leesin.zookeeper.curatorInterprocessMutex" />
-      <recent name="com.leesin.distributed.serializable" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciDemo">
-    <configuration name="BIOclient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.io.bio.BIOclient" />
+  <component name="RunManager" selected="Application.TransferTest">
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.basic.com.leesin.basic.HashMapDemo" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.io.bio.*" />
+          <option name="PATTERN" value="com.leesin.basic.com.leesin.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.FibonacciDemo" />
+    <configuration name="PhantomRefrenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.refrence.PhantomRefrenceDemo" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.*" />
+          <option name="PATTERN" value="com.leesin.refrence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.configuration.GenericConfiguration" />
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.integer.Swap" />
       <module name="note" />
-      <option name="VM_PARAMETERS" value="-Duser.age=34 -Duser.male=true" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.configuration.*" />
+          <option name="PATTERN" value="com.leesin.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.basic.IteratorDemo" />
+    <configuration name="TransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.integer.TransferTest" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.basic.*" />
+          <option name="PATTERN" value="com.leesin.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.configuration.PropertiesDemo" />
+    <configuration name="WeakReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.refrence.WeakReferenceDemo" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.configuration.*" />
+          <option name="PATTERN" value="com.leesin.refrence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,19 +197,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BIOclient" />
-      <item itemvalue="Application.FibonacciDemo" />
-      <item itemvalue="Application.GenericConfiguration" />
-      <item itemvalue="Application.IteratorDemo" />
-      <item itemvalue="Application.PropertiesDemo" />
+      <item itemvalue="Application.HashMapDemo" />
+      <item itemvalue="Application.WeakReferenceDemo" />
+      <item itemvalue="Application.PhantomRefrenceDemo" />
+      <item itemvalue="Application.Swap" />
+      <item itemvalue="Application.TransferTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibonacciDemo" />
-        <item itemvalue="Application.PropertiesDemo" />
-        <item itemvalue="Application.GenericConfiguration" />
-        <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.BIOclient" />
+        <item itemvalue="Application.TransferTest" />
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.PhantomRefrenceDemo" />
+        <item itemvalue="Application.WeakReferenceDemo" />
+        <item itemvalue="Application.HashMapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +247,12 @@
       <workItem from="1589545709090" duration="145000" />
       <workItem from="1589546526887" duration="9286000" />
       <workItem from="1590886943463" duration="74000" />
-      <workItem from="1590902829543" duration="1846000" />
+      <workItem from="1590902829543" duration="1881000" />
+      <workItem from="1591054527505" duration="14000" />
+      <workItem from="1591151239447" duration="623000" />
+      <workItem from="1591600001649" duration="5604000" />
+      <workItem from="1593043863256" duration="645000" />
+      <workItem from="1593045432847" duration="43692000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -341,49 +335,61 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593085899038">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593085899038" />
+    <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593083651614">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1593083651614" />
+    <state x="2356" y="571" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593092840784">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2356" y="571" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.3440.1410@0.0.3440.1410" timestamp="1593092840784" />
     <state x="2357" y="599" key="DetectedRootsChooserDialog" timestamp="1589547259461">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2357" y="599" key="DetectedRootsChooserDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547259461" />
-    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1590915029661">
+    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1591961633039">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1590915029661" />
+    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1591961633039" />
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1674" height="495" key="GridCell.Tab.0.bottom" timestamp="1590887017398">
+    <state width="1673" height="365" key="GridCell.Tab.0.bottom" timestamp="1593151250885">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.0.center" timestamp="1590887017398">
+    <state width="1673" height="365" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593151250885" />
+    <state width="1673" height="365" key="GridCell.Tab.0.center" timestamp="1593151250885">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.0.left" timestamp="1590887017398">
+    <state width="1673" height="365" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593151250885" />
+    <state width="1673" height="365" key="GridCell.Tab.0.left" timestamp="1593151250885">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.0.right" timestamp="1590887017398">
+    <state width="1673" height="365" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593151250885" />
+    <state width="1673" height="365" key="GridCell.Tab.0.right" timestamp="1593151250885">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.1.bottom" timestamp="1590887017398">
+    <state width="1673" height="365" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593151250885" />
+    <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593134831632">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.1.center" timestamp="1590887017398">
+    <state width="1673" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593134831632" />
+    <state width="1673" height="492" key="GridCell.Tab.1.center" timestamp="1593134831632">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.1.left" timestamp="1590887017398">
+    <state width="1673" height="492" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593134831632" />
+    <state width="1673" height="492" key="GridCell.Tab.1.left" timestamp="1593134831632">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
-    <state width="1674" height="495" key="GridCell.Tab.1.right" timestamp="1590887017398">
+    <state width="1673" height="492" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593134831632" />
+    <state width="1673" height="492" key="GridCell.Tab.1.right" timestamp="1593134831632">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1674" height="495" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1590887017398" />
+    <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593134831632" />
     <state x="2060" y="279" key="SettingsEditor" timestamp="1589551991234">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -392,13 +398,24 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589551936238" />
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1589587510788">
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1593151274054">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1589587510788" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1589588116656">
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593151274054" />
+    <state x="2235" y="335" key="run.anything.popup" timestamp="1593131376830">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589588116656" />
+    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593131376830" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593151269368">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593151269368" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i + (-IntegerCache.low)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
