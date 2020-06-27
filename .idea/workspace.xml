@@ -33,15 +33,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/DynamicProxy/cglib/CglibDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/DynamicProxy/jdk/DynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/staticProxy/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/staticProxy/PaymentLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/staticProxy/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/staticProxy/ThridCHannelProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/proxy/staticProxy/ThridChannelPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg1/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg1/TestSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg2/SingtonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/egme/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/egme/Write.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/clone/CloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/clone/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/clone/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/lang/String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ProxyDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +70,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/leesin/exception/ExceptionDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/leesin/distributed/serializable/SerialDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/leesin/clone/User.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -127,13 +131,13 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProxyDemo">
-    <configuration name="PhantomRefrenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.refrence.PhantomRefrenceDemo" />
+  <component name="RunManager" selected="Application.CloneDemo">
+    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.clone.CloneDemo" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.refrence.*" />
+          <option name="PATTERN" value="com.leesin.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.proxy.staticProxy.ProxyDemo" />
+    <configuration name="SingtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.eg2.SingtonDemo" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.proxy.staticProxy.*" />
+          <option name="PATTERN" value="com.leesin.classloader.eg2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.integer.Swap" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.egme.Test" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.integer.*" />
+          <option name="PATTERN" value="com.leesin.classloader.egme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.integer.TransferTest" />
+    <configuration name="TestSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.eg1.TestSub" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.integer.*" />
+          <option name="PATTERN" value="com.leesin.classloader.eg2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeakReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.refrence.WeakReferenceDemo" />
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.clone.User" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.refrence.*" />
+          <option name="PATTERN" value="com.leesin.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,19 +198,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WeakReferenceDemo" />
-      <item itemvalue="Application.PhantomRefrenceDemo" />
-      <item itemvalue="Application.Swap" />
-      <item itemvalue="Application.TransferTest" />
-      <item itemvalue="Application.ProxyDemo" />
+      <item itemvalue="Application.TestSub" />
+      <item itemvalue="Application.SingtonDemo" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.User" />
+      <item itemvalue="Application.CloneDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProxyDemo" />
-        <item itemvalue="Application.TransferTest" />
-        <item itemvalue="Application.Swap" />
-        <item itemvalue="Application.PhantomRefrenceDemo" />
-        <item itemvalue="Application.WeakReferenceDemo" />
+        <item itemvalue="Application.CloneDemo" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.SingtonDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestSub" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +253,7 @@
       <workItem from="1591151239447" duration="623000" />
       <workItem from="1591600001649" duration="5604000" />
       <workItem from="1593043863256" duration="645000" />
-      <workItem from="1593045432847" duration="61898000" />
+      <workItem from="1593045432847" duration="87599000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -332,10 +336,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593167483957">
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593250044809">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593167483957" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593250044809" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593083651614">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -355,22 +359,22 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1673" height="238" key="GridCell.Tab.0.bottom" timestamp="1593168336002">
+    <state width="1673" height="396" key="GridCell.Tab.0.bottom" timestamp="1593251115365">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="238" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593168336002" />
-    <state width="1673" height="238" key="GridCell.Tab.0.center" timestamp="1593168336002">
+    <state width="1673" height="396" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
+    <state width="1673" height="396" key="GridCell.Tab.0.center" timestamp="1593251115365">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="238" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593168336002" />
-    <state width="1673" height="238" key="GridCell.Tab.0.left" timestamp="1593168336002">
+    <state width="1673" height="396" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
+    <state width="1673" height="396" key="GridCell.Tab.0.left" timestamp="1593251115365">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="238" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593168336002" />
-    <state width="1673" height="238" key="GridCell.Tab.0.right" timestamp="1593168336002">
+    <state width="1673" height="396" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
+    <state width="1673" height="396" key="GridCell.Tab.0.right" timestamp="1593251115365">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="238" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593168336002" />
+    <state width="1673" height="396" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
     <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593167473649">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -395,18 +399,18 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589551936238" />
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1593180542503">
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1593250803820">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593180542503" />
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593250803820" />
     <state x="2235" y="335" key="run.anything.popup" timestamp="1593131376830">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593131376830" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593178054805">
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593248910392">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593178054805" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593248910392" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
