@@ -33,18 +33,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg1/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg1/TestSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/eg2/SingtonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/egme/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/classloader/egme/Write.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/clone/CloneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/clone/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/clone/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/serialize/SerialDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/serialize/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/DemoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ProxyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -131,7 +130,7 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CloneDemo">
+  <component name="RunManager" selected="Application.MyList">
     <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.clone.CloneDemo" />
       <module name="note" />
@@ -145,34 +144,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.MyList" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.serialize.SerialDemo" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.serialize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.eg2.SingtonDemo" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.classloader.eg2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.egme.Test" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.classloader.egme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.eg1.TestSub" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
@@ -198,19 +197,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestSub" />
       <item itemvalue="Application.SingtonDemo" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.User" />
       <item itemvalue="Application.CloneDemo" />
+      <item itemvalue="Application.SerialDemo" />
+      <item itemvalue="Application.MyList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyList" />
+        <item itemvalue="Application.SerialDemo" />
         <item itemvalue="Application.CloneDemo" />
         <item itemvalue="Application.User" />
         <item itemvalue="Application.SingtonDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestSub" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +252,7 @@
       <workItem from="1591151239447" duration="623000" />
       <workItem from="1591600001649" duration="5604000" />
       <workItem from="1593043863256" duration="645000" />
-      <workItem from="1593045432847" duration="87599000" />
+      <workItem from="1593045432847" duration="104076000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -336,10 +335,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593250044809">
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593438119251">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593250044809" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593438119251" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593083651614">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -348,6 +347,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2356" y="571" width="447" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.3440.1410@0.0.3440.1410" timestamp="1593092840784" />
+    <state x="2253" y="344" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1593393623943">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2253" y="344" key="#com.intellij.unscramble.UnscrambleDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1593393623943" />
     <state x="2357" y="599" key="DetectedRootsChooserDialog" timestamp="1589547259461">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -359,58 +362,58 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1673" height="396" key="GridCell.Tab.0.bottom" timestamp="1593251115365">
+    <state width="1673" height="396" key="GridCell.Tab.0.bottom" timestamp="1593442885218">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
-    <state width="1673" height="396" key="GridCell.Tab.0.center" timestamp="1593251115365">
+    <state width="1673" height="396" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885218" />
+    <state width="1673" height="396" key="GridCell.Tab.0.center" timestamp="1593442885217">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
-    <state width="1673" height="396" key="GridCell.Tab.0.left" timestamp="1593251115365">
+    <state width="1673" height="396" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885217" />
+    <state width="1673" height="396" key="GridCell.Tab.0.left" timestamp="1593442885217">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
-    <state width="1673" height="396" key="GridCell.Tab.0.right" timestamp="1593251115365">
+    <state width="1673" height="396" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885217" />
+    <state width="1673" height="396" key="GridCell.Tab.0.right" timestamp="1593442885217">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593251115365" />
-    <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593167473649">
+    <state width="1673" height="396" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885217" />
+    <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593257114588">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593167473649" />
-    <state width="1673" height="492" key="GridCell.Tab.1.center" timestamp="1593167473649">
+    <state width="1673" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
+    <state width="1673" height="492" key="GridCell.Tab.1.center" timestamp="1593257114588">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593167473649" />
-    <state width="1673" height="492" key="GridCell.Tab.1.left" timestamp="1593167473648">
+    <state width="1673" height="492" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
+    <state width="1673" height="492" key="GridCell.Tab.1.left" timestamp="1593257114588">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593167473648" />
-    <state width="1673" height="492" key="GridCell.Tab.1.right" timestamp="1593167473649">
+    <state width="1673" height="492" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
+    <state width="1673" height="492" key="GridCell.Tab.1.right" timestamp="1593257114588">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593167473649" />
-    <state x="2060" y="279" key="SettingsEditor" timestamp="1589551991234">
+    <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
+    <state x="2106" y="284" key="SettingsEditor" timestamp="1593441701704">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2060" y="279" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1589551991234" />
+    <state x="2106" y="284" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1593441701704" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1589551936238">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589551936238" />
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1593250803820">
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1593395718533">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593250803820" />
-    <state x="2235" y="335" key="run.anything.popup" timestamp="1593131376830">
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593395718533" />
+    <state x="2235" y="335" key="run.anything.popup" timestamp="1593441557457">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593131376830" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593248910392">
+    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593441557457" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593439335798">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593248910392" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593439335798" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
