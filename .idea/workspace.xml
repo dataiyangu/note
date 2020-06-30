@@ -33,9 +33,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,15 +104,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.leesin.proxy.DynamicProxy.cglib" />
-      <recent name="com.leesin.exception" />
-      <recent name="com.leesin.zookeeper.curatorInterprocessMutex" />
-      <recent name="com.leesin.distributed.serializable" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\apiStudy" />
       <recent name="F:\git_home\note\src\main\resources" />
@@ -120,21 +111,18 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\interProcessMutex" />
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leesin.proxy.DynamicProxy.cglib" />
+      <recent name="com.leesin.exception" />
+      <recent name="com.leesin.zookeeper.curatorInterprocessMutex" />
+      <recent name="com.leesin.distributed.serializable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git_home\note\src\main\java\com\leesin\arithmetic" />
+      <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MyQueue (1)">
-    <configuration name="MyList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.MyList" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TwoStackOneQueue (1)">
     <configuration name="MyQueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.queue.myTest.MyQueue" />
       <module name="note" />
@@ -174,19 +162,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.stack.MyStack" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Test2" />
       <module name="note" />
@@ -200,20 +175,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoStackOneQueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.queue.myTest.TwoStackOneQueue" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.queue.myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStackOneQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.queue.TwoStackOneQueue" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MyList (1)" />
-      <item itemvalue="Application.MyStack" />
       <item itemvalue="Application.MyStack (1)" />
       <item itemvalue="Application.MyQueue" />
       <item itemvalue="Application.MyQueue (1)" />
+      <item itemvalue="Application.TwoStackOneQueue" />
+      <item itemvalue="Application.TwoStackOneQueue (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoStackOneQueue (1)" />
+        <item itemvalue="Application.TwoStackOneQueue" />
         <item itemvalue="Application.MyQueue (1)" />
         <item itemvalue="Application.MyQueue" />
         <item itemvalue="Application.MyStack (1)" />
-        <item itemvalue="Application.MyStack" />
-        <item itemvalue="Application.MyList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +265,7 @@
       <workItem from="1593489430394" duration="394000" />
       <workItem from="1593489837236" duration="10691000" />
       <workItem from="1593502003074" duration="904000" />
-      <workItem from="1593502922322" duration="14972000" />
+      <workItem from="1593502922322" duration="17415000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -351,10 +352,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593520349120">
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593524162980">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593520349120" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593524162980" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593083651614">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -378,22 +379,22 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1677" height="301" key="GridCell.Tab.0.bottom" timestamp="1593521355988">
+    <state width="1677" height="301" key="GridCell.Tab.0.bottom" timestamp="1593524054078">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593521355988" />
-    <state width="1677" height="301" key="GridCell.Tab.0.center" timestamp="1593521355987">
+    <state width="1677" height="301" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054078" />
+    <state width="1677" height="301" key="GridCell.Tab.0.center" timestamp="1593524054078">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593521355987" />
-    <state width="1677" height="301" key="GridCell.Tab.0.left" timestamp="1593521355987">
+    <state width="1677" height="301" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054078" />
+    <state width="1677" height="301" key="GridCell.Tab.0.left" timestamp="1593524054077">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593521355987" />
-    <state width="1677" height="301" key="GridCell.Tab.0.right" timestamp="1593521355988">
+    <state width="1677" height="301" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054077" />
+    <state width="1677" height="301" key="GridCell.Tab.0.right" timestamp="1593524054078">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593521355988" />
+    <state width="1677" height="301" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054078" />
     <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -434,6 +435,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="129" y="111" width="1537" height="1210" key="dock-window-11/0.0.3440.1410@0.0.3440.1410" timestamp="1593520372622" />
+    <state x="186" y="84" width="1537" height="1210" key="dock-window-12" timestamp="1593524435563">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="186" y="84" width="1537" height="1210" key="dock-window-12/0.0.3440.1410@0.0.3440.1410" timestamp="1593524435563" />
     <state x="712" y="28" width="1253" height="1389" key="dock-window-2" timestamp="1593503405035">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
