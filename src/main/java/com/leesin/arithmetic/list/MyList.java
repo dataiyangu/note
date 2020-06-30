@@ -125,35 +125,36 @@ public class MyList {
      * @description:  删除节点
      * @name: delete
      * @param: head 链表头结点head
-     * @param: q 将要删除的节点，q节点
+     * @param: p 将要删除的节点，q节点
      * @return: void
      * @date: 2020/6/29 0029 22:32
      * @auther: Administrator
     **/
-    public static void delete(ListNode head,ListNode q) {
-        //只要找到q的前驱结点，前驱节点的next指针，指向q的下一个节点即可，就可以把q删除掉
-        //但是在单链表中，直接找q的上一个节点是不好找的，因为没有前驱的指针。
-        //所以采取：q节点的next指针指向的下一个节点的内容复制到q，然后再把q的下一个节点删除掉，就相当于把q删除掉了
+    public static void delete(ListNode head,ListNode p) {
+        //只要找到q的前驱结点，前驱节点的next指针，指向p的下一个节点即可，就可以把q删除掉
+        //但是在单链表中，直接找p的上一个节点是不好找的，因为没有前驱的指针。
+        //所以采取：p节点的next指针指向的下一个节点的内容复制到p，然后再把p的下一个节点删除掉，就相当于把p删除掉了
+        //总结：复制p.next内容到p，删除p.next节点
 
-        //q和q的下一个节点不为空，因为q的下一个节点为空，就不能讲q的下一个节点的内容复制到q了
-        if (q != null && q.next != null) {
-            //记录下q的下一个节点 p
-            ListNode p = q.next;
-            //q的当前的值用p来赋值， 即q节点的下一个节点的值赋值给q
-            q.value = p.value;
-            //删除掉q的下一个节点  q指向了q的next的next
-            q.next = p.next;
-            //再把p进行释放
-            p = null;
+        //p和p的下一个节点不为空，因为p的下一个节点为空，就不能将p的下一个节点的内容复制到p了
+        if (p != null && p.next != null) {
+            //记录下p的下一个节点 q
+            ListNode q = p.next;
+            //p的当前的值用q来赋值， 即p节点的下一个节点的值赋值给q
+            p.value = q.value;
+            //删除掉p的下一个节点  p指向了p的next的next
+            p.next = q.next;
+            //再把q进行释放
+            q = null;
         }
         //但是如果删除的当前节点是最后一个节点
         //删除最后一个元素
-        if (q.next == null) {
-            //遍历查找到当前q节点的前一个节点，然后把前一个节点的下一个节点直接指向null即可
+        if (p.next == null) {
+            //遍历查找到当前p节点的前一个节点，然后把前一个节点的下一个节点直接指向null即可
             //遍历：单链表没有前驱结点
             while (head != null) {
-                //节点的下一个节点不为空，并且下一个节点=q的时候， 也就是找到q的上一个节点
-                if (head.next != null && head.next == q) {
+                //节点的下一个节点不为空，并且下一个节点=p的时候， 也就是找到p的上一个节点
+                if (head.next != null && head.next == p) {
                     //当前元素的下一个节点指向空，就把q删除了
                     head.next = null;
                     break;
@@ -196,3 +197,10 @@ public class MyList {
         traverse(newhead);
     }
 }
+
+//          1 2 3
+//         0 1 2 3
+//         0 1 2 3 4
+//         4
+//         0 1 2 3 5 4
+//         0 1 2 5 4

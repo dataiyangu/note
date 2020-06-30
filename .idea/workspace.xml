@@ -33,17 +33,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/serialize/SerialDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/serialize/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/DemoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java/lang/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java/lang/String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java/lang/String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/note-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +87,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="F:\software_installation\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -106,11 +118,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -130,13 +142,13 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyList">
-    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.clone.CloneDemo" />
+  <component name="RunManager" selected="Application.MyStack (1)">
+    <configuration name="Interview2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Interview2" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.clone.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,7 +156,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MyList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.MyList" />
       <module name="note" />
       <extension name="coverage">
@@ -157,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.serialize.SerialDemo" />
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.MyList" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.serialize.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.classloader.eg2.SingtonDemo" />
+    <configuration name="MyStack (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.stack.myTest.MyStack" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.classloader.eg2.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.stack.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +195,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.clone.User" />
+    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.stack.MyStack" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.clone.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Test2" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,19 +222,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingtonDemo" />
-      <item itemvalue="Application.User" />
-      <item itemvalue="Application.CloneDemo" />
-      <item itemvalue="Application.SerialDemo" />
+      <item itemvalue="Application.Interview2 (1)" />
       <item itemvalue="Application.MyList" />
+      <item itemvalue="Application.MyList (1)" />
+      <item itemvalue="Application.MyStack" />
+      <item itemvalue="Application.MyStack (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyStack (1)" />
+        <item itemvalue="Application.MyStack" />
+        <item itemvalue="Application.MyList (1)" />
         <item itemvalue="Application.MyList" />
-        <item itemvalue="Application.SerialDemo" />
-        <item itemvalue="Application.CloneDemo" />
-        <item itemvalue="Application.User" />
-        <item itemvalue="Application.SingtonDemo" />
+        <item itemvalue="Application.Interview2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +277,15 @@
       <workItem from="1591151239447" duration="623000" />
       <workItem from="1591600001649" duration="5604000" />
       <workItem from="1593043863256" duration="645000" />
-      <workItem from="1593045432847" duration="104076000" />
+      <workItem from="1593045432847" duration="113276000" />
+      <workItem from="1593485115667" duration="2270000" />
+      <workItem from="1593487393474" duration="785000" />
+      <workItem from="1593488224986" duration="32000" />
+      <workItem from="1593488532270" duration="880000" />
+      <workItem from="1593489430394" duration="394000" />
+      <workItem from="1593489837236" duration="10691000" />
+      <workItem from="1593502003074" duration="904000" />
+      <workItem from="1593502922322" duration="10063000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -331,14 +364,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2055" y="279" key="#Project_Structure" timestamp="1593489593720">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2055" y="279" key="#Project_Structure/0.0.3440.1410@0.0.3440.1410" timestamp="1593489593720" />
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589547000732">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593438119251">
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593514195280">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593438119251" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593514195280" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593083651614">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -355,49 +392,49 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2357" y="599" key="DetectedRootsChooserDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547259461" />
-    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1593159071332">
+    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1593488174633">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1593159071332" />
+    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1593488174633" />
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1673" height="396" key="GridCell.Tab.0.bottom" timestamp="1593442885218">
+    <state width="1677" height="301" key="GridCell.Tab.0.bottom" timestamp="1593515556372">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885218" />
-    <state width="1673" height="396" key="GridCell.Tab.0.center" timestamp="1593442885217">
+    <state width="1677" height="301" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593515556372" />
+    <state width="1677" height="301" key="GridCell.Tab.0.center" timestamp="1593515556372">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885217" />
-    <state width="1673" height="396" key="GridCell.Tab.0.left" timestamp="1593442885217">
+    <state width="1677" height="301" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593515556372" />
+    <state width="1677" height="301" key="GridCell.Tab.0.left" timestamp="1593515556372">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885217" />
-    <state width="1673" height="396" key="GridCell.Tab.0.right" timestamp="1593442885217">
+    <state width="1677" height="301" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593515556372" />
+    <state width="1677" height="301" key="GridCell.Tab.0.right" timestamp="1593515556372">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="396" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593442885217" />
-    <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593257114588">
+    <state width="1677" height="301" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593515556372" />
+    <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
-    <state width="1673" height="492" key="GridCell.Tab.1.center" timestamp="1593257114588">
+    <state width="1673" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
+    <state width="1673" height="492" key="GridCell.Tab.1.center" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
-    <state width="1673" height="492" key="GridCell.Tab.1.left" timestamp="1593257114588">
+    <state width="1673" height="492" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
+    <state width="1673" height="492" key="GridCell.Tab.1.left" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
-    <state width="1673" height="492" key="GridCell.Tab.1.right" timestamp="1593257114588">
+    <state width="1673" height="492" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
+    <state width="1673" height="492" key="GridCell.Tab.1.right" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593257114588" />
-    <state x="2106" y="284" key="SettingsEditor" timestamp="1593441701704">
+    <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
+    <state x="2106" y="284" key="SettingsEditor" timestamp="1593514642788">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2106" y="284" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1593441701704" />
+    <state x="2106" y="284" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1593514642788" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1589551936238">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -406,14 +443,54 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593395718533" />
-    <state x="2235" y="335" key="run.anything.popup" timestamp="1593441557457">
+    <state x="759" y="0" width="1253" height="1389" key="dock-window-1" timestamp="1593503405034">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593441557457" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593439335798">
+    <state x="759" y="0" width="1253" height="1389" key="dock-window-1/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405034" />
+    <state x="87" y="130" width="1537" height="1210" key="dock-window-10" timestamp="1593514244275">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593439335798" />
+    <state x="87" y="130" width="1537" height="1210" key="dock-window-10/0.0.3440.1410@0.0.3440.1410" timestamp="1593514244275" />
+    <state x="712" y="28" width="1253" height="1389" key="dock-window-2" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="712" y="28" width="1253" height="1389" key="dock-window-2/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="358" y="14" width="1253" height="1389" key="dock-window-3" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="358" y="14" width="1253" height="1389" key="dock-window-3/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-4" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-4/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-5" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-5/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-6" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-6/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="-7" y="0" width="1734" height="1417" key="dock-window-7" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="-7" y="0" width="1734" height="1417" key="dock-window-7/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="1751" y="126" width="1537" height="1210" key="dock-window-8" timestamp="1593503405035">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1751" y="126" width="1537" height="1210" key="dock-window-8/0.0.3440.1410@0.0.3440.1410" timestamp="1593503405035" />
+    <state x="98" y="0" width="1537" height="1417" key="dock-window-9" timestamp="1593506628310">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="98" y="0" width="1537" height="1417" key="dock-window-9/0.0.3440.1410@0.0.3440.1410" timestamp="1593506628310" />
+    <state x="2235" y="335" key="run.anything.popup" timestamp="1593512300833">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593512300833" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593493611476">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593493611476" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
