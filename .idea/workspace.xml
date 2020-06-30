@@ -33,9 +33,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -122,7 +123,7 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoStackOneQueue (1)">
+  <component name="RunManager" selected="Application.Traverse (1)">
     <configuration name="MyQueue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.queue.myTest.MyQueue" />
       <module name="note" />
@@ -136,38 +137,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.queue.MyQueue" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStack (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.stack.myTest.MyStack" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.stack.myTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Test2" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traverse (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.myTest.Traverse" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.tree.myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.Traverse" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,19 +203,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyStack (1)" />
-      <item itemvalue="Application.MyQueue" />
       <item itemvalue="Application.MyQueue (1)" />
       <item itemvalue="Application.TwoStackOneQueue" />
       <item itemvalue="Application.TwoStackOneQueue (1)" />
+      <item itemvalue="Application.Traverse" />
+      <item itemvalue="Application.Traverse (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Traverse (1)" />
+        <item itemvalue="Application.Traverse" />
         <item itemvalue="Application.TwoStackOneQueue (1)" />
         <item itemvalue="Application.TwoStackOneQueue" />
         <item itemvalue="Application.MyQueue (1)" />
-        <item itemvalue="Application.MyQueue" />
-        <item itemvalue="Application.MyStack (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +266,7 @@
       <workItem from="1593489430394" duration="394000" />
       <workItem from="1593489837236" duration="10691000" />
       <workItem from="1593502003074" duration="904000" />
-      <workItem from="1593502922322" duration="17415000" />
+      <workItem from="1593502922322" duration="24228000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -379,22 +380,22 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1677" height="301" key="GridCell.Tab.0.bottom" timestamp="1593524054078">
+    <state width="1677" height="301" key="GridCell.Tab.0.bottom" timestamp="1593530847649">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054078" />
-    <state width="1677" height="301" key="GridCell.Tab.0.center" timestamp="1593524054078">
+    <state width="1677" height="301" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593530847649" />
+    <state width="1677" height="301" key="GridCell.Tab.0.center" timestamp="1593530847649">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054078" />
-    <state width="1677" height="301" key="GridCell.Tab.0.left" timestamp="1593524054077">
+    <state width="1677" height="301" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593530847649" />
+    <state width="1677" height="301" key="GridCell.Tab.0.left" timestamp="1593530847649">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054077" />
-    <state width="1677" height="301" key="GridCell.Tab.0.right" timestamp="1593524054078">
+    <state width="1677" height="301" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593530847649" />
+    <state width="1677" height="301" key="GridCell.Tab.0.right" timestamp="1593530847649">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="301" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593524054078" />
+    <state width="1677" height="301" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593530847649" />
     <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -411,10 +412,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
-    <state x="2106" y="284" key="SettingsEditor" timestamp="1593520551621">
+    <state x="1313" y="486" key="SettingsEditor" timestamp="1593557416288">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2106" y="284" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1593520551621" />
+    <state x="1313" y="486" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1593557416288" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1589551936238">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -435,10 +436,14 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="129" y="111" width="1537" height="1210" key="dock-window-11/0.0.3440.1410@0.0.3440.1410" timestamp="1593520372622" />
-    <state x="186" y="84" width="1537" height="1210" key="dock-window-12" timestamp="1593524435563">
+    <state x="186" y="84" width="1537" height="1210" key="dock-window-12" timestamp="1593525122355">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="186" y="84" width="1537" height="1210" key="dock-window-12/0.0.3440.1410@0.0.3440.1410" timestamp="1593524435563" />
+    <state x="186" y="84" width="1537" height="1210" key="dock-window-12/0.0.3440.1410@0.0.3440.1410" timestamp="1593525122355" />
+    <state x="179" y="164" width="1537" height="1210" key="dock-window-13" timestamp="1593557324273">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="179" y="164" width="1537" height="1210" key="dock-window-13/0.0.3440.1410@0.0.3440.1410" timestamp="1593557324273" />
     <state x="712" y="28" width="1253" height="1389" key="dock-window-2" timestamp="1593503405035">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -475,10 +480,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2276" y="437" width="598" height="536" key="find.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593519772603" />
-    <state x="2235" y="335" key="run.anything.popup" timestamp="1593520861667">
+    <state x="2235" y="335" key="run.anything.popup" timestamp="1593528349613">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593520861667" />
+    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593528349613" />
     <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593493611476">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
