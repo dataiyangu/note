@@ -40,6 +40,9 @@ public class Interview {
      * @auther: Administrator
      **/
     public static TreeNode buildTree(int[] preOrder, int pstart, int pend, int[] inOrder, int istart, int iend, HashMap<Integer, Integer> map) {
+        // 思路：先通过前序遍历第一个元素确定根的元素，然后查找该元素在中序遍历中的位置，采用递归实现//
+        // 先序 中 左 右 确定中
+        //中序  左 中 右  先序中的根节点位置
 
         //因为采用递归的方式，所以这里是终止条件 start一直都在+
         if (pstart > pend || istart > iend) {
@@ -57,6 +60,8 @@ public class Interview {
         //preOrder传进去，左子树的起始点 pstart+1
         //左子树的终止点，我们已经确定index坐标，在中序遍历中index坐标左边的全是左子树，右边的全是右子树，所以可以知道左子树的个数
         //即index-istart，这里只需要用pstart+index-start就是终止元素，前序遍历的终止元素
+
+        //这里构建关系
         head.left = buildTree(preOrder, pstart + 1, pstart + index - istart, inOrder, istart, index - 1, map);
         //构造右子树
         //pstart：上面参数中pend+1 ：pstart + index - istart

@@ -33,15 +33,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Depth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/LowestAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Depth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/LowestAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/greph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/greph/ListDG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/greph/ListNDG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/greph/MatrixDG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/greph/MatrixNDG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,20 +127,7 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Interview (1)">
-    <configuration name="Depth (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.myTest.Depth" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.tree.myTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListDG">
     <configuration name="Interview (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.myTest.Interview" />
       <module name="note" />
@@ -155,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.Interview" />
+    <configuration name="ListDG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.greph.ListDG" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.tree.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.greph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestAncestor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.myTest.LowestAncestor" />
+    <configuration name="ListNDG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.greph.ListNDG" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.tree.myTest.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.greph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +167,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.LowestAncestor" />
+    <configuration name="MatrixDG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.greph.MatrixDG" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.tree.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.greph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixNDG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.greph.MatrixNDG" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.greph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,19 +207,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Depth (1)" />
-      <item itemvalue="Application.LowestAncestor" />
-      <item itemvalue="Application.LowestAncestor (1)" />
-      <item itemvalue="Application.Interview" />
       <item itemvalue="Application.Interview (1)" />
+      <item itemvalue="Application.MatrixNDG" />
+      <item itemvalue="Application.MatrixDG" />
+      <item itemvalue="Application.ListNDG" />
+      <item itemvalue="Application.ListDG" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListDG" />
+        <item itemvalue="Application.ListNDG" />
+        <item itemvalue="Application.MatrixDG" />
+        <item itemvalue="Application.MatrixNDG" />
         <item itemvalue="Application.Interview (1)" />
-        <item itemvalue="Application.Interview" />
-        <item itemvalue="Application.LowestAncestor (1)" />
-        <item itemvalue="Application.LowestAncestor" />
-        <item itemvalue="Application.Depth (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +270,7 @@
       <workItem from="1593489430394" duration="394000" />
       <workItem from="1593489837236" duration="10691000" />
       <workItem from="1593502003074" duration="904000" />
-      <workItem from="1593502922322" duration="35429000" />
+      <workItem from="1593502922322" duration="41106000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -358,10 +357,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593524162980">
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593576179323">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593524162980" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593576179323" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593083651614">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -385,22 +384,22 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1677" height="259" key="GridCell.Tab.0.bottom" timestamp="1593570248807">
+    <state width="1677" height="391" key="GridCell.Tab.0.bottom" timestamp="1593580136994">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="259" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593570248807" />
-    <state width="1677" height="259" key="GridCell.Tab.0.center" timestamp="1593570248807">
+    <state width="1677" height="391" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593580136994" />
+    <state width="1677" height="391" key="GridCell.Tab.0.center" timestamp="1593580136994">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="259" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593570248807" />
-    <state width="1677" height="259" key="GridCell.Tab.0.left" timestamp="1593570248807">
+    <state width="1677" height="391" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593580136994" />
+    <state width="1677" height="391" key="GridCell.Tab.0.left" timestamp="1593580136993">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="259" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593570248807" />
-    <state width="1677" height="259" key="GridCell.Tab.0.right" timestamp="1593570248807">
+    <state width="1677" height="391" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593580136993" />
+    <state width="1677" height="391" key="GridCell.Tab.0.right" timestamp="1593580136994">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="259" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593570248807" />
+    <state width="1677" height="391" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593580136994" />
     <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -501,10 +500,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593569672299" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593562654809">
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593578715862">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593562654809" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593578715862" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
