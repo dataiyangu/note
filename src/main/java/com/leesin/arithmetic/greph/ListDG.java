@@ -90,4 +90,13 @@ public class ListDG {
         //    A C D F  A有三个边分别是CDF
         //    B C B节点有1个边 C
     }
+
+    private void DFS(boolean[] beTraversed, Vertex temp) {
+        System.out.println(temp.ch+" ");
+        beTraversed[getPosition(temp.ch)] = true;//进行一个标记，选用坐标用getposition方法
+        while (temp != null) {
+            //如果未曾访问过该节点
+            //以该节点为起始节点，然后，进一步递归进行调用
+        }
+    }
 }

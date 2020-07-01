@@ -63,4 +63,43 @@ public class MatrixNDG {
         MatrixNDG pG = new MatrixNDG(vexs, edges); //edges 两个边的关系
         pG.print();
     }
+
+    /**
+     * @description: 深度优先算法
+     * @name: DFS
+     * @param: x 下标
+     * @param: y 矩阵坐标
+     * @param: beTraversed 一个数组记录节点是否被访问到了
+     * @return: void
+     * @date: 2020/7/1 0001 13:44
+     * @auther: Administrator
+     **/
+    private void DFS(int x,int y,boolean[] beTraversed) {
+        //y是char[] vexs = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K'};
+        while (y <= size - 1) {
+            if (matrix[x][y] != 0 && beTraversed[y] ==false) {//!=0说明有边 && 没有访问过该节点
+                System.out.println(vertexs[y]+" ");//输出这个节点
+                beTraversed[y] = true;//标注为已经访问
+                DFS(y,0,beTraversed);//以该节点为起始节点，继续递归调用
+            }
+            y++;//便于循环
+        }
+    }
+    /**
+     * @description: 为了方便调用，封装一个方法，把一些变量初始化一下
+     * @name: DFS
+     * @param:
+     * @return:
+     * @date: 2020/7/1 0001 13:53
+     * @auther: Administrator
+    **/
+    public void  DFS() {
+        boolean[] beTraversed = new boolean[size]; //初始化boolean数组，记录该节点是否被访问到
+        //自动赋值全是false
+        System.out.println(vertexs[0]+" ");//把第一个节点先输出
+        // 然后进行标记
+        beTraversed[0] = true;
+        //最后调用下面的方法
+        DFS(0,0,beTraversed);
+    }
 }

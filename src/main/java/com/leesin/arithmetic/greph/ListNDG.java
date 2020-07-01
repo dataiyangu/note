@@ -88,4 +88,14 @@ public class ListNDG {
     //    A C D F  A有三个边分别是CDF
     //    B C B节点有1个边 C
     }
+
+    private void DFS(boolean[] betreaversed, Vertex temp) {
+        System.out.println(temp.ch+" ");
+        betreaversed[getPosition(temp.ch)] = true;
+        while (temp != null) {
+            if (betreaversed[getPosition(temp.ch)] == false) {
+                DFS(betreaversed,vertextLists[getPosition(temp.ch)]);
+            }
+        }
+    }
 }
