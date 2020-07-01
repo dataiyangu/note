@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * @description:
+ * @description: 二叉树遍历
  * @author: Leesin Dong
  * @date: Created in 2020/6/30 0030 22:46
  * @modified By:
@@ -150,12 +150,12 @@ public class Traverse {
         C.right = G;
         F.right = K;
 
-        preOrder(A);
+        preOrder(A);//A B D H I E J C F K G 
         System.out.println();
-        inOrder(A);
+        inOrder(A);//H D I B E J A F K C G
         System.out.println();
-        postOrder(A);
+        postOrder(A);//H I D J E B K F G C A
         System.out.println();
-        levelOrder(A);
+        levelOrder(A);//A B C D E F G H I J K
     }
 }
