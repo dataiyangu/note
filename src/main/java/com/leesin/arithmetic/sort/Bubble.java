@@ -11,9 +11,31 @@ import java.util.Arrays;
 //每次从0开始，两两比较，最大的跑到最后，下次最后的不进行比较
 //
 public class Bubble {
+    /*
+    * 封装一个通用交换的方法
+    * */
+    public static void swap(int[] arr ,int a,int b) {
+        int swap = arr[a];
+        arr[a]= arr[b];
+        arr[b] = swap;
+    }
     public static void main(String[] args) {
         int arr[] = {3, 9, -1, 10, -2};
         int temp = 0;
+        //【外层只是循环里面的代码】
+        for (int i = 0; i < arr.length-1; i++) {
+            //【arr[j]、arr[j+1]两两比较】 从头开始，大的到最后了，最后一个不用动
+            for (int j = 0; j < arr.length - 1 - i; j++) {
+                //如果前面的数比后面的数大，则交换
+                if (arr[j] > arr[j + 1]) {
+                    temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+            System.out.println("第"+(i+1)+"趟排序后的数组");
+            System.out.println(Arrays.toString(arr));
+        }
 
 //下面是分析过程
 /*      //第一趟排序就是将最大的数排在最后
@@ -72,18 +94,7 @@ public class Bubble {
 
         //四个for循环除了for j < arr.length - 1 - 3 这里的3不一样，其余的都是一样的，所以可以把这个for循环包起来
         //四个for循环都是重复代码
-        for (int i = 0; i < arr.length-1; i++) {
-            for (int j = 0; j < arr.length - 1 - i; j++) {
-                //如果前面的数比后面的数大，则交换
-                if (arr[j] > arr[j + 1]) {
-                    temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                }
-            }
-            System.out.println("第"+(i+1)+"趟排序后的数组");
-            System.out.println(Arrays.toString(arr));
-        }
+
     }
 }
 // 时间复杂度O(n^2)
