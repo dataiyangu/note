@@ -33,34 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/MyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +252,7 @@
       <workItem from="1593489837236" duration="10691000" />
       <workItem from="1593502003074" duration="904000" />
       <workItem from="1593502922322" duration="54119000" />
-      <workItem from="1593616141068" duration="62832000" />
+      <workItem from="1593616141068" duration="64359000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -397,22 +370,22 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1677" height="170" key="GridCell.Tab.0.bottom" timestamp="1593702619454">
+    <state width="1677" height="170" key="GridCell.Tab.0.bottom" timestamp="1593755705141">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
-    <state width="1677" height="170" key="GridCell.Tab.0.center" timestamp="1593702619454">
+    <state width="1677" height="170" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
+    <state width="1677" height="170" key="GridCell.Tab.0.center" timestamp="1593755705141">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
-    <state width="1677" height="170" key="GridCell.Tab.0.left" timestamp="1593702619454">
+    <state width="1677" height="170" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
+    <state width="1677" height="170" key="GridCell.Tab.0.left" timestamp="1593755705141">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
-    <state width="1677" height="170" key="GridCell.Tab.0.right" timestamp="1593702619454">
+    <state width="1677" height="170" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
+    <state width="1677" height="170" key="GridCell.Tab.0.right" timestamp="1593755705141">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
+    <state width="1677" height="170" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
     <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
