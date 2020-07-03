@@ -18,11 +18,10 @@ public class BinarySearch {
             return -1;
         }
         int mid = (left + right) / 2;
-        int midval = arr[mid];
-        if (findval < midval) {
-            return search(arr, left, mid - 1, findval);
-        } else if (findval > midval) {
-            return search(arr, mid + 1, right, findval);
+        if (arr[mid] < findval) {
+           return search(arr, mid +1,right, findval);
+        } else if (arr[mid] > findval) {
+            return search(arr,left, mid - 1,  findval);
         } else {
             return mid;
         }

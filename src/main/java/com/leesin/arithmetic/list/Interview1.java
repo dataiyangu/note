@@ -31,14 +31,18 @@ public class Interview1 {
         ListNode head1 = null;
         ListNode head2 = null;
 
+        //【因为head1 head2只作为链表头，最后直接输出即可，不便于将遍历，所以cur1 cur2 接替他做这个事情，head1 head2 指向它们即可】
+        //
         //两个指针，遍历用的
         ListNode cur1 = null;
         ListNode cur2 = null;
 
-        int count = 1;//用来计数的变量，初始值1
+        int count = 1;//用来计数的变量，初始值1  初始值1代表数组中的第1位，通过这个来将数组拆成两个
         while (head != null) {
             if (count % 2 == 1) {//奇数节点
+                //【可以把if else 颠倒下，看的方便】
                 if (cur1 != null) {
+                    //【直接添加到链表后面，因为cur1是空的，直接添加即可】
                     cur1.next = head; //cur1的next值指向head节点  把新的元素放到原来指针所指元素后面
                     cur1 = cur1.next;//cur1指向他的下一个节点  把指针指向，新的元素 【这里写成head也是可以的】
                 } else {//cur1为null，即最开始的情况

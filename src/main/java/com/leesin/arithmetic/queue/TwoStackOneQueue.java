@@ -3,7 +3,7 @@ package com.leesin.arithmetic.queue;
 import java.util.Stack;
 
 /**
- * @description:
+ * @description:两个栈实现一个队列
  * @author: Leesin Dong
  * @date: Created in 2020/6/30 0030 21:00
  * @modified By:
@@ -12,6 +12,9 @@ import java.util.Stack;
 public class TwoStackOneQueue {
     //stackPush 压入 stackPop
     //总结：入队 push.add 出入 pop.push  pop.pop or pop.peek
+    //【比较懒】
+    //入队   入到第一个就完事了
+    //出队，先入第二个，再从第二个出来
     public Stack<Integer> stackPush;
     public Stack<Integer> stackPop;
 
@@ -42,6 +45,14 @@ public class TwoStackOneQueue {
      * @auther: Administrator
     **/
     public int poll() {
+
+        /*
+        * Integer pop = stackPush.pop();
+        stackPop.push(pop);
+        Integer pop1 = stackPop.pop();
+        * */
+
+
         //每次取队首的元素，把元素返回，并把元素取出来
         if (stackPush.isEmpty() && stackPop.isEmpty()) {//stackPush是空，并且stackPop也是空就不能操作
             throw new RuntimeException("Queue is empty");

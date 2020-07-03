@@ -6,5 +6,11 @@ package com.leesin.arithmetic.list.myTest;
  * @date: Created in 2020/7/2 0002 20:43
  * @modified By:
  */
-public class ListNode {
-}
+// public class ListNode {
+//     public int value = 0;
+//     public ListNode next;
+//
+//     public ListNode(int value) {
+//         this.value = value;
+//     }
+// }

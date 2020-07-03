@@ -19,70 +19,50 @@ public class Traverse {
             stack.push(head);
             while (!stack.isEmpty()) {
                 TreeNode pop = stack.pop();
-                System.out.print(pop.value+" ");
-                if (pop.right != null) {
-                    stack.push(pop.right);
+                System.out.println(pop);
+                if (head.right != null) {
+                    stack.push(head.right);
                 }
-                if (pop.left != null) {
-                    stack.push(pop.left);
+                if (head.left != null) {
+                    stack.push(head.left);
                 }
             }
         }
     }
 
     public static void postOrder(TreeNode head) {
-        if (head!=null) {
-            Stack<TreeNode> stack1 = new Stack<>();
-            Stack<TreeNode> stack2 = new Stack<>();
-            stack1.push(head);
-            while (!stack1.isEmpty()) {
-                TreeNode pop = stack1.pop();
-                stack2.push(pop);
-                if (pop.left != null) {
-                    stack1.push(pop.left);
-                }
-                if (pop.right != null) {
-                    stack1.push(pop.right);
-                }
-            }
-            while (!stack2.isEmpty()) {
-                TreeNode pop = stack2.pop();
-                System.out.print(pop.value+" ");
-            }
-        }
+
     }
 
     public static void inOrder(TreeNode head) {
-        if (head != null) {
-            Stack<TreeNode> stack = new Stack<>();
-            while (!stack.isEmpty() || head != null) {
-                if (head != null) {
-                    stack.push(head);
-                    head = head.left;
-                } else {
-                     head = stack.pop();
-                    System.out.print(head.value+" ");
-                    head = head.right;
-                }
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(head);
+        while (!stack.isEmpty()) {
+            if (head != null) {
+                stack.push(head);
+                head = head.left;
+            } else {
+                TreeNode pop = stack.pop();
+                System.out.println(pop);
+                head = head.right;
             }
         }
+
     }
 
     public static void levelOrder(TreeNode head) {
-        if (head != null) {
-            Queue<TreeNode> queue = new ArrayDeque<>();
-            queue.offer(head);
-            while (!queue.isEmpty()) {
-                int levelNum = queue.size();
-                for (int i = 0; i < levelNum; i++) {
-                    TreeNode poll = queue.poll();
-                    System.out.print(poll.value+" ");
-                    if (poll.left != null) {
-                        queue.offer(poll.left);
-                    }
-                    if (poll.right != null) {
-                        queue.offer(poll.right);
-                    }
+        Queue<TreeNode> queue = new ArrayDeque<>();
+        queue.offer(head);
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode poll = queue.poll();
+                System.out.println(poll);
+                if (head.left != null) {
+                    queue.offer(head.left);
+                }
+                if (head.right != null) {
+                    queue.offer(head.right);
                 }
             }
         }

@@ -9,43 +9,48 @@ import com.leesin.arithmetic.list.ListNode;
  * @modified By:
  */
 public class Interview1 {
-    /*
-     * 1 拆分
-     * 2 偶数反转
-     * 3 合并
-     * */
 
     public static ListNode[] getLists(ListNode head) {
+        //最后需要返回的两个链表的头结点
         ListNode head1 = null;
         ListNode head2 = null;
+
+        //【因为head1 head2只作为链表头，最后直接输出即可，不便于将遍历，所以cur1 cur2 接替他做这个事情，head1 head2 指向它们即可】
+        //
+        //两个指针，遍历用的
         ListNode cur1 = null;
         ListNode cur2 = null;
-        int count = 1;
+
+        int count = 1;//用来计数的变量，初始值1  初始值1代表数组中的第1位，通过这个来将数组拆成两个
         while (head != null) {
-            if (count % 2 == 1) {
+            if (count % 2 == 1) {//奇数节点
+                //【可以把if else 颠倒下，看的方便】
                 if (cur1 != null) {
-                    cur1.next = head;
-                    cur1 = head;
-                } else {
-                    cur1 = head;
-                    head1 = head;//这里注意不能是head，因为奇数偶数 第二次进来head就变了
+                    //【直接添加到链表后面，因为cur1是空的，直接添加即可】
+                    cur1.next = head; //cur1的next值指向head节点  把新的元素放到原来指针所指元素后面
+                    cur1 = cur1.next;//cur1指向他的下一个节点  把指针指向，新的元素 【这里写成head也是可以的】
+                } else {//cur1为null，即最开始的情况
+                    cur1 = head;//cur1直接等于head
+                    head1 = cur1;//head1指向cur1  【这里写成head1 = head也是可以的】
                 }
-            } else {
-                if (cur2 != null) {
-                    cur2.next = head;
-                    cur2 = head;
-                } else {
-                    cur2 = head;
-                    head2 = head;
+            } else {//偶数位操作，同理
+                if (cur2 != null) {//cur2不为null
+                    cur2.next = head;//cur2的next指向head
+                    cur2 = cur2.next;//cur2指向他的下一位 【这里写成head也是可以的】
+                } else {//cur2为null
+                    cur2 = head;//cur2指向head，这步只会执行一次，
+                    head2 = cur2;//head2指向cur2 【这里写成head1 = head也是可以的】
                 }
             }
-            head = head.next;
-            count++;
+            head = head.next;//head指向head.next进行遍历
+            count++;//计数器++
         }
+        //跳出循环之后，两个末尾元素的下一个都指向null 这里cur1 cur2 其实就是指向最后一个元素的指针
         cur1.next = null;
         cur2.next = null;
         ListNode[] nodes = new ListNode[]{head1, head2};//声明一个数组返回
-        return nodes;    }
+        return nodes;
+    }
 
     public static ListNode reverse(ListNode head) {
         ListNode pre = null;
@@ -60,23 +65,27 @@ public class Interview1 {
     }
 
     public static ListNode merge2List(ListNode head1, ListNode head2) {
-        if (head1 == null && head2 == null) {
-            return null;
+        if (head1 == null || head2 == null) {
+            return head1 == null ? head2 : head1;
         }
-        if (head1 == null) {
-            return head2;
+        ListNode head = head1.value < head2.value ? head1 : head2;
+        ListNode cur1 = head == head1 ? head1 : head2;
+        ListNode cur2 = head == head1 ? head2 : head1;
+        ListNode pre = null;
+        ListNode next = null;
+        while (cur1 != null && cur2 != null) {
+            if (cur1.value <= cur2.value) {
+                pre = cur1;
+                cur1 = cur1.next;
+            } else {
+                next = cur2.next;
+                pre.next = cur2;
+                cur2.next = cur1;
+                pre = cur2;
+                cur2 = next;
+            }
         }
-        if (head2 == null) {
-            return head1;
-        }
-        ListNode head = null;
-        if (head1.value > head2.value) {
-            head = head2;
-            head.next = merge2List(head1, head2.next);
-        } else {
-            head = head1;
-            head.next = merge2List(head1.next, head2);
-        }
+        pre.next = cur1 == null ? cur2 : cur1;
         return head;
     }
 
@@ -101,6 +110,8 @@ public class Interview1 {
         return node1;
     }
     public static void main(String[] args) {
+
+        // 1 2 3 4 5 6 7 8 9
         ListNode head = init();
         //拆分成奇数、偶数两个链表
         ListNode[] lists = getLists(head);

@@ -13,7 +13,7 @@ package com.leesin.arithmetic.list;
 public class Interview2 {
     //归并排序算法
     public static ListNode sortList(ListNode head) {
-        //0个或者1个元素，不需要排序，直接返回即可
+        //0个或者1个元素，不需要排序，直接返回即可 递归结束条件
         if (head == null || head.next == null) {
             return head;
         }

@@ -18,14 +18,15 @@ public class Test2 {
      **/
     public static ListNode mergeTwoList(ListNode head1, ListNode head2) {
         //退出递归的条件
+        //下次传进来的head1 head2 = null。那么上层的head.next就是null，说明已经到头了
         if (head1 == null && head2 == null) {
             return null;
         }
         if (head1 == null) {
-            return head2;
+            return head2; //head.next = head2
         }
         if (head2 == null) {
-            return head1;
+            return head1;//head.next = head1
         }
         //主要逻辑
         ListNode head = null;//合并之后的头结点
@@ -65,18 +66,22 @@ public class Test2 {
         ListNode pre = null;//指向cur1的前一个元素   在我看来是最后基准表的pre
         ListNode next = null;//指向cur2的后一个元素   在我看来是最后基准表的next
         while (cur1 != null && cur2 != null) {//两个链表都没有到末尾
+            //【第一次默认走这里】
             if (cur1.value <= cur2.value) {//初始元素是不是cur1的元素 比 cur2的元素小于或等于 cur1的第一个肯定是小的
-                pre = cur1;//pre指向cur1 初始 这里并不是前一个
+                //方便遍历【pre、curl1都往后移 cur1 就是基准表，直接往后移，什么也不用管】
+                pre = cur1;//pre指向cur1 初始 这里并不是前一个的意思，只是初始化pre，指的是第一个节点
                 //方便遍历
                 cur1 = cur1.next;//直接往后移动一位即可，不管cur2了
             } else {//否则把cur2指向的元素合并进cur1里面 cur2头插cur1
                 //有点像插入一个新元素
+                //【cur2 插入到cur1前面】    【pre  （cur1|cur2） next】  只有第一次【pre(cur1) (cur1|cur2) next】
                 next = cur2.next;//记录下cur2的下一个节点的位置
+                //这里是[pre cur1] - > [pre cur2 curl1 ] 插入了curl2
                 pre.next = cur2;//cur1前一个元素的位置的下一个节点原来指向cur1，现在指向cur2 pre.next不能写成cur1？cur1不一定是pre.next
                 cur2.next = cur1;//cur2的下一个元素的节点指向cur1
-                //pre和next的位置重新变更下 往后移动一个，方便遍历
-                pre = cur2;// pre指向cur2
-                cur2 = next;//cur2指向记录的next
+                //pre和next的位置重新变更下 往后移动一个，【方便遍历】
+                pre = cur2;// pre指向cur2  主表的指针往后
+                cur2 = next;//cur2指向记录的next  //cur2的指针也往后
                 /*
                 * 记忆 ：
                 * pre.next cur2.next

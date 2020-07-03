@@ -100,7 +100,7 @@ public class MyQueue {
     public static void outQueue(MyQueue myQueue) {
         if (!isEmpty(myQueue)) {//当队列不为空的时候才会出队
             int value = myQueue.arrays[myQueue.front]; //把出队的元素记录下 即front指向的元素
-            System.out.println(value);
+            System.out.println(value); //【出队了？没看到哇// 】
             //重新赋值front节点，因为出队了，所以front节点，也进行了变化，front节点往后移动一位
             myQueue.front = (myQueue.front - 1) % myQueue.arrays.length;
         }

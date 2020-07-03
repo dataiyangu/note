@@ -9,8 +9,9 @@ import java.util.Stack;
  * @modified By:
  */
 public class TwoStackOneQueue {
-    public Stack<Integer> stackPush;
-    public Stack<Integer> stackPop;
+
+    Stack<Integer> stackPush = new Stack<>();
+    Stack<Integer> stackPop = new Stack<>();
 
     public TwoStackOneQueue(Stack<Integer> stackPush, Stack<Integer> stackPop) {
         this.stackPush = stackPush;
@@ -18,29 +19,22 @@ public class TwoStackOneQueue {
     }
 
     public  void add(int value) {
-        stackPush.add(value);
+        stackPush.push(value);
     }
 
     public int poll() {
-        if (stackPush.isEmpty() && stackPop.isEmpty()) {
-            throw new RuntimeException("Queue is enpty");
-        } else if (!stackPop.isEmpty()) {
-            while (!stackPush.isEmpty()) {
-                stackPop.push(stackPush.pop());
-            }
-        }
-        return stackPop.pop();
+        Integer pop = stackPush.pop();
+        stackPop.push(pop);
+          Integer pop1 = stackPop.pop();
+
+        return pop1;
     }
 
     public int peek() {
-        if (stackPush.isEmpty() && stackPop.isEmpty()) {
-            throw new RuntimeException("Queue is enpty");
-        } else if (!stackPop.isEmpty()) {
-            while (!stackPush.isEmpty()) {
-                stackPop.push(stackPush.pop());
-            }
-        }
-        return stackPop.peek();
+        Integer pop = stackPush.pop();
+        stackPop.push(pop);
+        Integer pop1 = stackPop.peek();
+        return pop1;
     }
 
     public static void main(String[] args) {

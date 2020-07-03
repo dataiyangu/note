@@ -79,6 +79,7 @@ public class MyStack {
     public static void popStack(MyStack myStack) {
         //栈不为空才出栈
         if (!isEmpty(myStack)) {
+            //【不能把stacktop指针删掉，只要隔开就好了 stacktop-》stacktop.next】 直接指向它的下一个就好了
             ListNode stackTop = myStack.stackTop;
             myStack.stackTop = stackTop.next;
             System.out.println(stackTop.value);

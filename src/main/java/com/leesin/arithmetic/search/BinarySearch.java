@@ -24,6 +24,7 @@ public class BinarySearch {
      * @return: int 如果找到就返回下标，如果没有找到就返回-1
      **/
     public static int binarySearch(int[] arr, int left, int right, int findVal) {
+        //【left在最左，right在最右】--->【right-----left】
         //当left>right时，说明递归整个数组，但是没有找到，结束递归，一直递归下去，会堆栈溢出。
         if (left > right) {
             return -1;

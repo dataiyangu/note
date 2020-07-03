@@ -9,49 +9,35 @@ import com.leesin.arithmetic.list.ListNode;
  * @modified By:
  */
 public class MyStack {
-    public ListNode stackTop;
-    public ListNode stackBottom;
+    ListNode stackTop;
+    ListNode stackBottom;
 
     public MyStack(ListNode stackTop, ListNode stackBottom) {
         this.stackTop = stackTop;
         this.stackBottom = stackBottom;
     }
 
-    public static void pushStack(MyStack myStack,int value) {
+    public static void pushStack(MyStack myStack, int value) {
+        ListNode old = myStack.stackTop;
         ListNode node = new ListNode(value);
-        node.next =  myStack.stackTop;
         myStack.stackTop = node;
-    }
-
-    public static void traverse(MyStack myStack) {
-        ListNode stackTop = myStack.stackTop;
-        while (stackTop != myStack.stackBottom) {
-            System.out.print(stackTop.value+" ");
-            stackTop = stackTop.next;
-        }
-        System.out.println();
-    }
-
-    public static boolean isEmpty(MyStack myStack) {
-        if (myStack.stackTop == myStack.stackBottom) {
-            return true;
-        } else {
-            return false;
-        }
+        node.next = old;
     }
 
     public static void popStack(MyStack myStack) {
-        if (!isEmpty(myStack)) {
-            ListNode stackTop = myStack.stackTop;
-            myStack.stackTop = stackTop.next;//这里写错过
-            System.out.println(stackTop.value);
-        }
+        myStack.stackTop = myStack.stackTop.next;
     }
 
-    public static void clearStack(MyStack myStack) {
-        myStack.stackTop = null;
-        myStack.stackBottom = myStack.stackTop;
+    private static boolean isEmpty(MyStack myStack) {
+        return true;
     }
+    public static void traverse(MyStack myStack) {
+
+    }
+    public static void clearStack(MyStack myStack) {
+
+    }
+
 
     public static void main(String[] args) {
         MyStack myStack = new MyStack(new ListNode(0), new ListNode(0));

@@ -3,29 +3,52 @@ package com.leesin.arithmetic.list.myTest;
 import com.leesin.arithmetic.list.ListNode;
 
 /**
- * @description:
+ * @description:单链表归并排序 nlogn
  * @author: Leesin Dong
  * @date: Created in 2020/6/30 0030 16:23
  * @modified By:
  */
 public class Interview2 {
-    //合并
-    public static ListNode mergeTwoList(ListNode head1, ListNode head2) {
-        if (head1 == null || head2 == null) {
-            return head1 != null ? head1 : head2;
+    public static ListNode sortList(ListNode head) {
+        //jieshu 条件
+        if (head == null || head.next == null) {
+            return head;
+        }
+        //取到中点
+        ListNode mid = getMid(head);
+
+        ListNode right = mid.next;
+        //咬断
+        mid.next = null;
+        //合并
+        return merge(sortList(head), sortList(right));
+    }
+
+    public static ListNode getMid(ListNode head) {
+        ListNode fast = head;
+        ListNode slow = head;
+        while (fast.next != null && fast.next.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+        return slow;
+    }
+
+    public static ListNode merge(ListNode head1, ListNode head2) {
+        if (head1 == null || head2==null) {
+            return head1 == null ? head1 : head2;
         }
         ListNode head = head1.value < head2.value ? head1 : head2;
         ListNode cur1 = head == head1 ? head1 : head2;
         ListNode cur2 = head == head1 ? head2 : head1;
         ListNode pre = null;
         ListNode next = null;
-
         while (cur1 != null && cur2 != null) {
-            if (cur1.value <= cur2.value) {
+            if (cur1.value < cur2.value) {
                 pre = cur1;
                 cur1 = cur1.next;
             } else {
-                next = cur2.next;
+                 next = cur2.next;
                 pre.next = cur2;
                 cur2.next = cur1;
                 pre = cur2;
@@ -34,27 +57,9 @@ public class Interview2 {
         }
         pre.next = cur1 == null ? cur2 : cur1;
         return head;
+
     }
 
-    public static ListNode getMid(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
-        while (fast.next != null && fast.next.next != null) {
-            fast = fast.next;
-            slow = slow.next;
-        }
-        return slow;
-    }
-
-    public static ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
-        }
-        ListNode mid = getMid(head);
-        ListNode right = mid.next;
-        mid.next = null;
-        return mergeTwoList(sortList(head), sortList(right));
-    }
     public static ListNode init() {
         ListNode node1 = new ListNode(1);
         ListNode node2 = new ListNode(8);

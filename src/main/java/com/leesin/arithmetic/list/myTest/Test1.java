@@ -24,14 +24,11 @@ public class Test1 {
 
     /*单链表取中间值*/
     public static ListNode getMid(ListNode head) {
-        if (head == null) {
-            return head;
-        }
-        ListNode fast = head;
         ListNode slow = head;
+        ListNode fast = head;
         while (fast.next != null && fast.next.next != null) {
-            slow = slow.next;
             fast = fast.next.next;
+            slow = slow.next;
         }
         return slow;
     }
@@ -52,4 +49,6 @@ public class Test1 {
             listNode = listNode.next;
         }
     }
+    //2
+    // 3 2 1
 }

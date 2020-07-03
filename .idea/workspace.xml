@@ -33,31 +33,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/MergetSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/insertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/MergetSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/inserSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/MyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Charu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Xier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Xuanze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/ZZZZZ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/总结.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Bubble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Charu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Xier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Xuanze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/ZZZZZ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,13 +148,13 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergetSort">
-    <configuration name="MergetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.MergetSort" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.search.test.BinarySearch" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.search.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.QuickSort" />
+    <configuration name="Interview1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.Interview1" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.SelectSort" />
+    <configuration name="Interview1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Interview1" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.ShellSort" />
+    <configuration name="Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Interview2" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inserSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.inserSort" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Test1" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.inserSort" />
-      <item itemvalue="Application.SelectSort" />
-      <item itemvalue="Application.ShellSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.MergetSort" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Interview1" />
+      <item itemvalue="Application.Interview1 (1)" />
+      <item itemvalue="Application.Interview2" />
+      <item itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergetSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.inserSort" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Interview2" />
+        <item itemvalue="Application.Interview1" />
+        <item itemvalue="Application.Interview1 (1)" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +279,7 @@
       <workItem from="1593489837236" duration="10691000" />
       <workItem from="1593502003074" duration="904000" />
       <workItem from="1593502922322" duration="54119000" />
-      <workItem from="1593616141068" duration="46759000" />
+      <workItem from="1593616141068" duration="62832000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -367,10 +370,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593576179323">
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593734470815">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593576179323" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593734470815" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593676787024">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -394,22 +397,22 @@
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1677" height="216" key="GridCell.Tab.0.bottom" timestamp="1593693128521">
+    <state width="1677" height="170" key="GridCell.Tab.0.bottom" timestamp="1593702619454">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="216" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593693128521" />
-    <state width="1677" height="216" key="GridCell.Tab.0.center" timestamp="1593693128521">
+    <state width="1677" height="170" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
+    <state width="1677" height="170" key="GridCell.Tab.0.center" timestamp="1593702619454">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="216" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593693128521" />
-    <state width="1677" height="216" key="GridCell.Tab.0.left" timestamp="1593693128521">
+    <state width="1677" height="170" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
+    <state width="1677" height="170" key="GridCell.Tab.0.left" timestamp="1593702619454">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="216" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593693128521" />
-    <state width="1677" height="216" key="GridCell.Tab.0.right" timestamp="1593693128521">
+    <state width="1677" height="170" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
+    <state width="1677" height="170" key="GridCell.Tab.0.right" timestamp="1593702619454">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="216" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593693128521" />
+    <state width="1677" height="170" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593702619454" />
     <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -482,14 +485,86 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="387" y="170" width="1537" height="1210" key="dock-window-18/0.0.3440.1410@0.0.3440.1410" timestamp="1593692934484" />
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-19" timestamp="1593694755207">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-19/0.0.3440.1410@0.0.3440.1410" timestamp="1593694755207" />
     <state x="1713" y="0" width="1734" height="1417" key="dock-window-2" timestamp="1593658624937">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="1713" y="0" width="1734" height="1417" key="dock-window-2/0.0.3440.1410@0.0.3440.1410" timestamp="1593658624937" />
+    <state x="185" y="0" width="1537" height="1417" key="dock-window-20" timestamp="1593694755207">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="185" y="0" width="1537" height="1417" key="dock-window-20/0.0.3440.1410@0.0.3440.1410" timestamp="1593694755207" />
+    <state x="39" y="74" width="1537" height="1210" key="dock-window-21" timestamp="1593696025023">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="39" y="74" width="1537" height="1210" key="dock-window-21/0.0.3440.1410@0.0.3440.1410" timestamp="1593696025023" />
+    <state x="187" y="33" width="1537" height="1210" key="dock-window-22" timestamp="1593696412802">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="187" y="33" width="1537" height="1210" key="dock-window-22/0.0.3440.1410@0.0.3440.1410" timestamp="1593696412802" />
+    <state x="206" y="82" width="1537" height="1210" key="dock-window-23" timestamp="1593700847196">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="206" y="82" width="1537" height="1210" key="dock-window-23/0.0.3440.1410@0.0.3440.1410" timestamp="1593700847196" />
+    <state x="258" y="65" width="1537" height="1210" key="dock-window-24" timestamp="1593700847196">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="258" y="65" width="1537" height="1210" key="dock-window-24/0.0.3440.1410@0.0.3440.1410" timestamp="1593700847196" />
+    <state x="314" y="58" width="1537" height="1210" key="dock-window-25" timestamp="1593701184044">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="314" y="58" width="1537" height="1210" key="dock-window-25/0.0.3440.1410@0.0.3440.1410" timestamp="1593701184044" />
+    <state x="122" y="125" width="1537" height="1210" key="dock-window-26" timestamp="1593701184044">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="122" y="125" width="1537" height="1210" key="dock-window-26/0.0.3440.1410@0.0.3440.1410" timestamp="1593701184044" />
+    <state x="116" y="175" width="1537" height="1210" key="dock-window-27" timestamp="1593701184044">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="116" y="175" width="1537" height="1210" key="dock-window-27/0.0.3440.1410@0.0.3440.1410" timestamp="1593701184044" />
+    <state x="169" y="120" width="1537" height="1210" key="dock-window-28" timestamp="1593702069267">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="169" y="120" width="1537" height="1210" key="dock-window-28/0.0.3440.1410@0.0.3440.1410" timestamp="1593702069267" />
+    <state x="165" y="155" width="1537" height="1210" key="dock-window-29" timestamp="1593703709891">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="165" y="155" width="1537" height="1210" key="dock-window-29/0.0.3440.1410@0.0.3440.1410" timestamp="1593703709891" />
     <state x="358" y="14" width="1253" height="1389" key="dock-window-3" timestamp="1593660458792">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="358" y="14" width="1253" height="1389" key="dock-window-3/0.0.3440.1410@0.0.3440.1410" timestamp="1593660458792" />
+    <state x="196" y="90" width="1537" height="1210" key="dock-window-30" timestamp="1593703709892">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="196" y="90" width="1537" height="1210" key="dock-window-30/0.0.3440.1410@0.0.3440.1410" timestamp="1593703709892" />
+    <state x="230" y="91" width="1537" height="1210" key="dock-window-31" timestamp="1593703709892">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="230" y="91" width="1537" height="1210" key="dock-window-31/0.0.3440.1410@0.0.3440.1410" timestamp="1593703709892" />
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-32" timestamp="1593730460999">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1807" y="100" width="1537" height="1210" key="dock-window-32/0.0.3440.1410@0.0.3440.1410" timestamp="1593730460999" />
+    <state x="408" y="155" width="1443" height="1210" key="dock-window-33" timestamp="1593734101991">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="408" y="155" width="1443" height="1210" key="dock-window-33/0.0.3440.1410@0.0.3440.1410" timestamp="1593734101991" />
+    <state x="1794" y="98" width="1537" height="1210" key="dock-window-34" timestamp="1593734101991">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1794" y="98" width="1537" height="1210" key="dock-window-34/0.0.3440.1410@0.0.3440.1410" timestamp="1593734101991" />
+    <state x="113" y="116" width="1537" height="1210" key="dock-window-35" timestamp="1593734486844">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="113" y="116" width="1537" height="1210" key="dock-window-35/0.0.3440.1410@0.0.3440.1410" timestamp="1593734486844" />
+    <state x="103" y="0" width="1637" height="1417" key="dock-window-36" timestamp="1593736074478">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="103" y="0" width="1637" height="1417" key="dock-window-36/0.0.3440.1410@0.0.3440.1410" timestamp="1593736074478" />
     <state x="-7" y="0" width="1734" height="1417" key="dock-window-4" timestamp="1593665087814">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -518,14 +593,14 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2276" y="437" width="598" height="536" key="find.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593519772603" />
-    <state x="2235" y="335" key="run.anything.popup" timestamp="1593657908774">
+    <state x="2235" y="335" key="run.anything.popup" timestamp="1593699349072">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593657908774" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593692956714">
+    <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593699349072" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593733492520">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593692956714" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593733492520" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
