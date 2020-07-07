@@ -92,7 +92,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587549333893" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BaiduNetdiskDownload/笔记、代码、课件、资料/代码/DataStructures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaagent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -253,6 +253,8 @@
       <workItem from="1593502003074" duration="904000" />
       <workItem from="1593502922322" duration="54119000" />
       <workItem from="1593616141068" duration="64359000" />
+      <workItem from="1593755721064" duration="4709000" />
+      <workItem from="1594027076275" duration="12737000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -363,10 +365,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2357" y="599" key="DetectedRootsChooserDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547259461" />
-    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1593618509727">
+    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1593786733477">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1593618509726" />
+    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1593786733477" />
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
@@ -410,10 +412,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589551936238" />
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1593395718533">
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1594044309876">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1593395718533" />
+    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1594044309876" />
     <state x="2124" y="437" width="912" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593676992209">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -570,10 +572,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593699349072" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1593733492520">
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1594044306257">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593733492520" />
+    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1594044306257" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
