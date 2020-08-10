@@ -32,8 +32,9 @@ public class TwoStackOneQueue {
      * @date: 2020/6/30 0030 21:17
      * @auther: Administrator
     **/
-    public  void add(int value) {
-        stackPush.add(value);//我感觉push方法也对
+    public  void push(int value) {
+        // stackPush.add(value);//我感觉push方法也对
+        stackPush.push(value);//stack的push add 方法一样的作用都是在栈顶添加元素，只不过返回值不一样
     }
 
     /**
@@ -44,7 +45,7 @@ public class TwoStackOneQueue {
      * @date: 2020/6/30 0030 21:17
      * @auther: Administrator
     **/
-    public int poll() {
+    public int pop() {
 
         /*
         * Integer pop = stackPush.pop();
@@ -86,11 +87,11 @@ public class TwoStackOneQueue {
     public static void main(String[] args) {
         TwoStackOneQueue queue = new TwoStackOneQueue(new Stack<Integer>(), new Stack<Integer>());
         //入队
-        queue.add(1);
-        queue.add(2);
-        queue.add(3);
+        queue.push(1);
+        queue.push(2);
+        queue.push(3);
         System.out.println(queue.peek());
-        System.out.println(queue.poll());
+        System.out.println(queue.pop());
         System.out.println(queue.peek());
 
         // System.out.println(queue.poll());//1

@@ -1,7 +1,7 @@
 package com.leesin.arithmetic.list;
 
 /**
- * @description: 一个链表基数位升序，偶数位降序，对该链表排序 （头条面试）
+ * @description: 一个链表奇数位升序，偶数位降序，对该链表排序 （头条面试）
  * @author: Leesin Dong
  * @date: Created in 2020/6/30 0030 12:10
  * @modified By:
@@ -113,7 +113,6 @@ public class Interview1 {
         if (head2 == null) {
             return head1;
         }
-
         ListNode head = null;
         if (head1.value > head2.value) {
             head = head2;

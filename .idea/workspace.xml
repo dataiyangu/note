@@ -33,7 +33,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/归并.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Traverse尚硅谷.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse尚硅谷.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/动态规划/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/interview/SwapAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/Jstack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/QuickerSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Interview2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Interview2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/不用练/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/list/myTest/不用练/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/other/FibonacciDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/不看裴波那契/FibonacciDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/TwoStackOneQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/二分法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/search/test/二分法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/冒泡.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/MergetSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/归并.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/快排.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/选择.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/希尔.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/insertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/插入.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/冒泡.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/MergetSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/快排.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/选择.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/希尔.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/inserSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/test/插入.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/sort/总结/总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/stack/myTest/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/arithmetic/tree/myTest/Traverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/other/FibonacciDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/TwoStackOneQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Bubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/insertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/MergetSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/inserSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/myTest/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/myTest/MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Traverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Interview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Traverse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +174,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587549333893" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaagent" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mos-interview" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -100,15 +182,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\apiStudy" />
-      <recent name="F:\git_home\note\src\main\resources" />
-      <recent name="F:\git_home\note" />
-      <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\interProcessMutex" />
-      <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git_home\note\src\main\java\com\leesin\arithmetic\sort\总结" />
+      <recent name="F:\git_home\note\src\main\java\com\leesin\arithmetic" />
+      <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.leesin.proxy.DynamicProxy.cglib" />
@@ -116,18 +196,21 @@
       <recent name="com.leesin.zookeeper.curatorInterprocessMutex" />
       <recent name="com.leesin.distributed.serializable" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git_home\note\src\main\java\com\leesin\arithmetic" />
-      <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\apiStudy" />
+      <recent name="F:\git_home\note\src\main\resources" />
+      <recent name="F:\git_home\note" />
+      <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\interProcessMutex" />
+      <recent name="F:\git_home\note\src\main\java\com\leesin\zookeeper\curator\leaderselect" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.search.test.BinarySearch" />
+  <component name="RunManager" selected="Application.Interview">
+    <configuration name="快排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.快排" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.search.test.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.Interview1" />
+    <configuration name="Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.tree.myTest.Interview" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.list.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.tree.myTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +257,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Test1" />
+    <configuration name="归并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.归并" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
+          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="归并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.归并" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.插入" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="选择" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.选择" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="希尔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.sort.test.希尔" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.arithmetic.sort.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,19 +323,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Interview1" />
-      <item itemvalue="Application.Interview1 (1)" />
       <item itemvalue="Application.Interview2" />
-      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.快排" />
+      <item itemvalue="Application.Interview" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Interview" />
+        <item itemvalue="Application.快排" />
         <item itemvalue="Application.Interview2" />
         <item itemvalue="Application.Interview1" />
-        <item itemvalue="Application.Interview1 (1)" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +387,25 @@
       <workItem from="1593502922322" duration="54119000" />
       <workItem from="1593616141068" duration="64359000" />
       <workItem from="1593755721064" duration="4709000" />
-      <workItem from="1594027076275" duration="12737000" />
+      <workItem from="1594027076275" duration="28631000" />
+      <workItem from="1594206034861" duration="645000" />
+      <workItem from="1594218199600" duration="431000" />
+      <workItem from="1594219957514" duration="8627000" />
+      <workItem from="1594433392072" duration="6000" />
+      <workItem from="1594626764748" duration="678000" />
+      <workItem from="1595118168751" duration="1264000" />
+      <workItem from="1595219740592" duration="642000" />
+      <workItem from="1595257183235" duration="683000" />
+      <workItem from="1595407599081" duration="27958000" />
+      <workItem from="1595755014498" duration="3565000" />
+      <workItem from="1595822887339" duration="38696000" />
+      <workItem from="1596327214351" duration="1908000" />
+      <workItem from="1596447330197" duration="1540000" />
+      <workItem from="1596639153183" duration="161000" />
+      <workItem from="1596717958577" duration="16142000" />
+      <workItem from="1596936545329" duration="16383000" />
+      <workItem from="1597023477034" duration="153000" />
+      <workItem from="1597023644332" duration="6441000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -333,6 +484,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="349" key="#Plugins" timestamp="1597024378347">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="452" y="349" key="#Plugins/0.0.3440.1410@0.0.3440.1410" timestamp="1597024378347" />
     <state x="2055" y="279" key="#Project_Structure" timestamp="1593489593720">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -341,14 +496,14 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="1528" y="671" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1593666992859" />
-    <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589547000732">
+    <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595118195627">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547000732" />
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1593734470815">
+    <state x="2000" y="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1595118195627" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1596936582210">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1593734470815" />
+    <state x="2384" y="420" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1410@0.0.3440.1410" timestamp="1596936582210" />
     <state x="2263" y="627" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593676787024">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -365,109 +520,109 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2357" y="599" key="DetectedRootsChooserDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589547259461" />
-    <state x="2360" y="459" key="FileChooserDialogImpl" timestamp="1593786733477">
+    <state x="1753" y="527" key="FileChooserDialogImpl" timestamp="1597031518180">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2360" y="459" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1593786733477" />
+    <state x="1753" y="527" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1597031518180" />
     <state width="477" height="366" key="Git.Branch.Popup" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup/3440.1440" timestamp="1589545509802" />
     <state width="477" height="366" key="Git.Branch.Popup@3440.1440" timestamp="1589545509802" />
-    <state width="1677" height="170" key="GridCell.Tab.0.bottom" timestamp="1593755705141">
+    <state width="1676" height="385" key="GridCell.Tab.0.bottom" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
-    <state width="1677" height="170" key="GridCell.Tab.0.center" timestamp="1593755705141">
+    <state width="1676" height="385" key="GridCell.Tab.0.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.0.center" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
-    <state width="1677" height="170" key="GridCell.Tab.0.left" timestamp="1593755705141">
+    <state width="1676" height="385" key="GridCell.Tab.0.center/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.0.left" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
-    <state width="1677" height="170" key="GridCell.Tab.0.right" timestamp="1593755705141">
+    <state width="1676" height="385" key="GridCell.Tab.0.left/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.0.right" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1677" height="170" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593755705141" />
-    <state width="1673" height="492" key="GridCell.Tab.1.bottom" timestamp="1593485105518">
+    <state width="1676" height="385" key="GridCell.Tab.0.right/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.1.bottom" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
-    <state width="1673" height="492" key="GridCell.Tab.1.center" timestamp="1593485105518">
+    <state width="1676" height="385" key="GridCell.Tab.1.bottom/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.1.center" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
-    <state width="1673" height="492" key="GridCell.Tab.1.left" timestamp="1593485105518">
+    <state width="1676" height="385" key="GridCell.Tab.1.center/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.1.left" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
-    <state width="1673" height="492" key="GridCell.Tab.1.right" timestamp="1593485105518">
+    <state width="1676" height="385" key="GridCell.Tab.1.left/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state width="1676" height="385" key="GridCell.Tab.1.right" timestamp="1596985829772">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state width="1673" height="492" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1593485105518" />
-    <state x="995" y="519" key="SettingsEditor" timestamp="1593681335335">
+    <state width="1676" height="385" key="GridCell.Tab.1.right/0.0.3440.1410@0.0.3440.1410" timestamp="1596985829772" />
+    <state x="279" y="416" width="1366" height="903" key="SettingsEditor" timestamp="1597031467624">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="995" y="519" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1593681335335" />
+    <state x="279" y="416" width="1366" height="903" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1597031467624" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1589551936238">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589551936238" />
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup" timestamp="1594044309876">
+    <state x="1093" y="715" width="582" height="524" key="StructurePopup" timestamp="1596804943837">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2301" y="450" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1594044309876" />
+    <state x="1093" y="715" width="582" height="524" key="StructurePopup/0.0.3440.1410@0.0.3440.1410" timestamp="1596804943837" />
     <state x="2124" y="437" width="912" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593676992209">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2124" y="437" width="912" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.3440.1410@0.0.3440.1410" timestamp="1593676992209" />
-    <state x="759" y="0" width="1253" height="1389" key="dock-window-1" timestamp="1593656801937">
+    <state x="-7" y="0" width="1734" height="1417" key="dock-window-1" timestamp="1596954453075">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="759" y="0" width="1253" height="1389" key="dock-window-1/0.0.3440.1410@0.0.3440.1410" timestamp="1593656801937" />
-    <state x="87" y="130" width="1537" height="1210" key="dock-window-10" timestamp="1593684323506">
+    <state x="-7" y="0" width="1734" height="1417" key="dock-window-1/0.0.3440.1410@0.0.3440.1410" timestamp="1596954453075" />
+    <state x="794" y="97" width="1537" height="1277" key="dock-window-10" timestamp="1595991333044">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="87" y="130" width="1537" height="1210" key="dock-window-10/0.0.3440.1410@0.0.3440.1410" timestamp="1593684323506" />
-    <state x="129" y="111" width="1537" height="1210" key="dock-window-11" timestamp="1593688737806">
+    <state x="794" y="97" width="1537" height="1277" key="dock-window-10/0.0.3440.1410@0.0.3440.1410" timestamp="1595991333044" />
+    <state x="129" y="111" width="1537" height="1210" key="dock-window-11" timestamp="1595992964173">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="129" y="111" width="1537" height="1210" key="dock-window-11/0.0.3440.1410@0.0.3440.1410" timestamp="1593688737806" />
-    <state x="186" y="84" width="1537" height="1210" key="dock-window-12" timestamp="1593685582900">
+    <state x="129" y="111" width="1537" height="1210" key="dock-window-11/0.0.3440.1410@0.0.3440.1410" timestamp="1595992964173" />
+    <state x="186" y="84" width="1537" height="1210" key="dock-window-12" timestamp="1595993338093">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="186" y="84" width="1537" height="1210" key="dock-window-12/0.0.3440.1410@0.0.3440.1410" timestamp="1593685582900" />
-    <state x="179" y="164" width="1537" height="1210" key="dock-window-13" timestamp="1593685582900">
+    <state x="186" y="84" width="1537" height="1210" key="dock-window-12/0.0.3440.1410@0.0.3440.1410" timestamp="1595993338093" />
+    <state x="158" y="111" width="1537" height="1210" key="dock-window-13" timestamp="1595996386793">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="179" y="164" width="1537" height="1210" key="dock-window-13/0.0.3440.1410@0.0.3440.1410" timestamp="1593685582900" />
-    <state x="86" y="130" width="1537" height="1210" key="dock-window-14" timestamp="1593686220803">
+    <state x="158" y="111" width="1537" height="1210" key="dock-window-13/0.0.3440.1410@0.0.3440.1410" timestamp="1595996386793" />
+    <state x="86" y="130" width="1537" height="1210" key="dock-window-14" timestamp="1596012062832">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="86" y="130" width="1537" height="1210" key="dock-window-14/0.0.3440.1410@0.0.3440.1410" timestamp="1593686220803" />
-    <state x="347" y="109" width="1537" height="1210" key="dock-window-15" timestamp="1593688737806">
+    <state x="86" y="130" width="1537" height="1210" key="dock-window-14/0.0.3440.1410@0.0.3440.1410" timestamp="1596012062832" />
+    <state x="180" y="122" width="1537" height="1210" key="dock-window-15" timestamp="1596012062832">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="347" y="109" width="1537" height="1210" key="dock-window-15/0.0.3440.1410@0.0.3440.1410" timestamp="1593688737806" />
-    <state x="162" y="85" width="1537" height="1210" key="dock-window-16" timestamp="1593690253952">
+    <state x="180" y="122" width="1537" height="1210" key="dock-window-15/0.0.3440.1410@0.0.3440.1410" timestamp="1596012062832" />
+    <state x="162" y="85" width="1537" height="1210" key="dock-window-16" timestamp="1596012680894">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="162" y="85" width="1537" height="1210" key="dock-window-16/0.0.3440.1410@0.0.3440.1410" timestamp="1593690253952" />
-    <state x="197" y="35" width="1537" height="1210" key="dock-window-17" timestamp="1593690253952">
+    <state x="162" y="85" width="1537" height="1210" key="dock-window-16/0.0.3440.1410@0.0.3440.1410" timestamp="1596012680894" />
+    <state x="197" y="35" width="1537" height="1210" key="dock-window-17" timestamp="1596013950346">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="197" y="35" width="1537" height="1210" key="dock-window-17/0.0.3440.1410@0.0.3440.1410" timestamp="1593690253952" />
-    <state x="387" y="170" width="1537" height="1210" key="dock-window-18" timestamp="1593692934484">
+    <state x="197" y="35" width="1537" height="1210" key="dock-window-17/0.0.3440.1410@0.0.3440.1410" timestamp="1596013950346" />
+    <state x="175" y="152" width="1537" height="1210" key="dock-window-18" timestamp="1596014262812">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="387" y="170" width="1537" height="1210" key="dock-window-18/0.0.3440.1410@0.0.3440.1410" timestamp="1593692934484" />
-    <state x="1807" y="100" width="1537" height="1210" key="dock-window-19" timestamp="1593694755207">
+    <state x="175" y="152" width="1537" height="1210" key="dock-window-18/0.0.3440.1410@0.0.3440.1410" timestamp="1596014262812" />
+    <state x="272" y="121" width="1537" height="1210" key="dock-window-19" timestamp="1596016217890">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="1807" y="100" width="1537" height="1210" key="dock-window-19/0.0.3440.1410@0.0.3440.1410" timestamp="1593694755207" />
-    <state x="1713" y="0" width="1734" height="1417" key="dock-window-2" timestamp="1593658624937">
+    <state x="272" y="121" width="1537" height="1210" key="dock-window-19/0.0.3440.1410@0.0.3440.1410" timestamp="1596016217890" />
+    <state x="0" y="0" width="1734" height="1410" key="dock-window-2" timestamp="1596943243257">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="1713" y="0" width="1734" height="1417" key="dock-window-2/0.0.3440.1410@0.0.3440.1410" timestamp="1593658624937" />
+    <state x="0" y="0" width="1734" height="1410" key="dock-window-2/0.0.3440.1410@0.0.3440.1410" timestamp="1596943243257" />
     <state x="185" y="0" width="1537" height="1417" key="dock-window-20" timestamp="1593694755207">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -508,10 +663,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="165" y="155" width="1537" height="1210" key="dock-window-29/0.0.3440.1410@0.0.3440.1410" timestamp="1593703709891" />
-    <state x="358" y="14" width="1253" height="1389" key="dock-window-3" timestamp="1593660458792">
+    <state x="435" y="184" width="1253" height="1088" key="dock-window-3" timestamp="1596946582382">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="358" y="14" width="1253" height="1389" key="dock-window-3/0.0.3440.1410@0.0.3440.1410" timestamp="1593660458792" />
+    <state x="435" y="184" width="1253" height="1088" key="dock-window-3/0.0.3440.1410@0.0.3440.1410" timestamp="1596946582382" />
     <state x="196" y="90" width="1537" height="1210" key="dock-window-30" timestamp="1593703709892">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
@@ -540,42 +695,46 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="103" y="0" width="1637" height="1417" key="dock-window-36/0.0.3440.1410@0.0.3440.1410" timestamp="1593736074478" />
-    <state x="-7" y="0" width="1734" height="1417" key="dock-window-4" timestamp="1593665087814">
+    <state x="179" y="183" width="1392" height="949" key="dock-window-4" timestamp="1596946582382">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="-7" y="0" width="1734" height="1417" key="dock-window-4/0.0.3440.1410@0.0.3440.1410" timestamp="1593665087814" />
-    <state x="174" y="106" width="1537" height="1210" key="dock-window-5" timestamp="1593674211943">
+    <state x="179" y="183" width="1392" height="949" key="dock-window-4/0.0.3440.1410@0.0.3440.1410" timestamp="1596946582382" />
+    <state x="174" y="106" width="1537" height="1210" key="dock-window-5" timestamp="1596949024563">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="174" y="106" width="1537" height="1210" key="dock-window-5/0.0.3440.1410@0.0.3440.1410" timestamp="1593674211943" />
-    <state x="183" y="70" width="1537" height="1307" key="dock-window-6" timestamp="1593680589423">
+    <state x="174" y="106" width="1537" height="1210" key="dock-window-5/0.0.3440.1410@0.0.3440.1410" timestamp="1596949024563" />
+    <state x="1278" y="186" width="1637" height="1417" key="dock-window-6" timestamp="1596949496304">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="183" y="70" width="1537" height="1307" key="dock-window-6/0.0.3440.1410@0.0.3440.1410" timestamp="1593680589423" />
-    <state x="-7" y="0" width="1734" height="1417" key="dock-window-7" timestamp="1593681172471">
+    <state x="1278" y="186" width="1637" height="1417" key="dock-window-6/0.0.3440.1410@0.0.3440.1410" timestamp="1596949496304" />
+    <state x="-7" y="0" width="1734" height="1417" key="dock-window-7" timestamp="1596949951074">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="-7" y="0" width="1734" height="1417" key="dock-window-7/0.0.3440.1410@0.0.3440.1410" timestamp="1593681172471" />
-    <state x="248" y="39" width="1537" height="1210" key="dock-window-8" timestamp="1593681172471">
+    <state x="-7" y="0" width="1734" height="1417" key="dock-window-7/0.0.3440.1410@0.0.3440.1410" timestamp="1596949951074" />
+    <state x="49" y="12" width="1734" height="1417" key="dock-window-8" timestamp="1596950292138">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="248" y="39" width="1537" height="1210" key="dock-window-8/0.0.3440.1410@0.0.3440.1410" timestamp="1593681172471" />
-    <state x="98" y="0" width="1537" height="1417" key="dock-window-9" timestamp="1593684323506">
+    <state x="49" y="12" width="1734" height="1417" key="dock-window-8/0.0.3440.1410@0.0.3440.1410" timestamp="1596950292138" />
+    <state x="-24" y="180" width="1381" height="1169" key="dock-window-9" timestamp="1596953306504">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="98" y="0" width="1537" height="1417" key="dock-window-9/0.0.3440.1410@0.0.3440.1410" timestamp="1593684323506" />
+    <state x="-24" y="180" width="1381" height="1169" key="dock-window-9/0.0.3440.1410@0.0.3440.1410" timestamp="1596953306504" />
     <state x="2276" y="437" width="598" height="536" key="find.popup" timestamp="1593519772603">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2276" y="437" width="598" height="536" key="find.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593519772603" />
+    <state x="241" y="365" key="new project wizard" timestamp="1597031563889">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="241" y="365" key="new project wizard/0.0.3440.1410@0.0.3440.1410" timestamp="1597031563889" />
     <state x="2235" y="335" key="run.anything.popup" timestamp="1593699349072">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2235" y="335" key="run.anything.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1593699349072" />
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1594044306257">
+    <state x="2066" y="577" width="672" height="678" key="search.everywhere.popup" timestamp="1597024368249">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
-    <state x="2243" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1594044306257" />
+    <state x="2066" y="577" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1597024368249" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -583,5 +742,10 @@
         <watch expression="i + (-IntegerCache.low)" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/note$Interview1.ic" NAME="Interview1 Coverage Results" MODIFIED="1596946373172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leesin.arithmetic.list.myTest.*</FILTER>
+    </SUITE>
   </component>
 </project>

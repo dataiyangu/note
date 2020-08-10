@@ -52,6 +52,7 @@ public class Interview {
         }
         //在中序数组中，查找根节点的下标
         //构造根节点，因为需要build一个tree
+
         //先序遍历的首元素
         //因为treenode value是string，这里是int，所以转成string
         TreeNode head = new TreeNode(preOrder[pstart] + "");   //【确定新树头】
@@ -76,17 +77,17 @@ public class Interview {
     }
 
     public static void main(String[] args) {
-        int[] preorder = {3, 9, 20, 15, 17};
-        int[] inorder = {9, 3, 15, 20, 7};
+        int[] preorder = {2, 5, 4, 6, 7, 8};
+        int[] inorder = {2, 5, 4, 6, 7, 8};
 
         TreeNode treeNode = buidlTree(preorder, inorder);
-        Traverse.levelOrder(treeNode); //3 9 20 15 17
+        Traverse.levelOrder(treeNode); //2 5 4 6 7 8
 
 
-        //     3
-        //    / \
-        //   9  20
-        //     /  \
-        //    15   7
+//              6
+//           /     \
+//          5       7
+//         / \       \
+//        2   4       8
     }
 }

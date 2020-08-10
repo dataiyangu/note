@@ -50,8 +50,9 @@ public class Test1 {
         }
         ListNode fast = head;//快指针 指向头部
         ListNode slow = head;//慢指针 指向头部
-
+        //后面的判断是不多余的
         while (fast.next != null && fast.next.next !=null) {//遍历 快指针走两步，慢指针走一步
+        // while (fast.next != null ) {//遍历 快指针走两步，慢指针走一步
             // 判断两次，因为fast要走两步，不能因为下下个是null，不能遍历了
             slow = slow.next; //slow一步
             fast = fast.next.next; //fast两步

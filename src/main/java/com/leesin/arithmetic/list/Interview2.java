@@ -14,6 +14,7 @@ public class Interview2 {
     //归并排序算法
     public static ListNode sortList(ListNode head) {
         //0个或者1个元素，不需要排序，直接返回即可 递归结束条件
+        //【这里经常犯错，记住有第二个判断，最后一个节点，直接返回本身】
         if (head == null || head.next == null) {
             return head;
         }
@@ -27,7 +28,7 @@ public class Interview2 {
     }
 
 
-    //取中点
+    //取链表中点
     public static ListNode getMid(ListNode head) {
         //思路：一个快指针、一个慢指针，快指针每次走两步，慢指针每次走一步，快指针走完之后，慢指针就是中间节点的位置
         if (head == null) {        //head = null说明链表不存在，返回 null就行

@@ -9,22 +9,22 @@ import com.leesin.arithmetic.list.ListNode;
  * @modified By:
  */
 public class Interview2 {
-    public static ListNode sortList(ListNode head) {
-        //jieshu 条件
-        if (head == null || head.next == null) {
-            return head;
-        }
-        //取到中点
-        ListNode mid = getMid(head);
 
-        ListNode right = mid.next;
-        //咬断
-        mid.next = null;
-        //合并
-        return merge(sortList(head), sortList(right));
-    }
+   public static ListNode sortList(ListNode head) {
+       if (head == null || head.next == null) {
+           return head;
+       }
+       ListNode mid = getMid(head);
+       ListNode next = mid.next;
+       mid.next = null;
+       ListNode listNode = mergeList(sortList(head), sortList(next));
+       return listNode;
+   }
 
     public static ListNode getMid(ListNode head) {
+       if (head==null){
+           return null;
+       }
         ListNode fast = head;
         ListNode slow = head;
         while (fast.next != null && fast.next.next != null) {
@@ -34,31 +34,28 @@ public class Interview2 {
         return slow;
     }
 
-    public static ListNode merge(ListNode head1, ListNode head2) {
-        if (head1 == null || head2==null) {
-            return head1 == null ? head1 : head2;
+    public static ListNode mergeList(ListNode head1,ListNode head2) {
+        if (head1 == null && head2 == null) {
+            return null;
         }
-        ListNode head = head1.value < head2.value ? head1 : head2;
-        ListNode cur1 = head == head1 ? head1 : head2;
-        ListNode cur2 = head == head1 ? head2 : head1;
-        ListNode pre = null;
-        ListNode next = null;
-        while (cur1 != null && cur2 != null) {
-            if (cur1.value < cur2.value) {
-                pre = cur1;
-                cur1 = cur1.next;
-            } else {
-                 next = cur2.next;
-                pre.next = cur2;
-                cur2.next = cur1;
-                pre = cur2;
-                cur2 = next;
-            }
+        if (head1 == null) {
+            return head2;
         }
-        pre.next = cur1 == null ? cur2 : cur1;
+        if (head2 == null) {
+            return head1;
+        }
+        ListNode head = null;
+        if (head1.value < head2.value) {
+            head = head1;
+            head.next = mergeList(head1.next, head2);
+        } else {
+            head = head2;
+            head.next = mergeList(head2.next, head1);
+        }
         return head;
-
     }
+
+
 
     public static ListNode init() {
         ListNode node1 = new ListNode(1);
@@ -80,9 +77,9 @@ public class Interview2 {
         node8.next = node9;
         return node1;
     }
+
     public static void main(String[] args) {
         ListNode head = init();
-        //拆分成奇数、偶数两个链表
         head = sortList(head);
         while (head != null) {
             System.out.print(head.value + " ");

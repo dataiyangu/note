@@ -8,6 +8,8 @@ import com.leesin.arithmetic.list.ListNode;
  * @date: Created in 2020/6/30 0030 18:01
  * @modified By:
  */
+
+//栈的本质就是 保存了单向链表的两个指针，一个头指针，一个尾指针。然后头插、头删
 public class MyStack {
     public ListNode stackTop;//栈顶
     public ListNode stackBottom;//栈底
@@ -17,22 +19,7 @@ public class MyStack {
         this.stackBottom = stackBottom;
     }
 
-    /**
-     * @description: 进栈
-     * @name: pushStack
-     * @param: myStack 栈
-     * @param: value 进栈的数值
-     * @return: void
-     * @date: 2020/6/30 0030 18:04
-     * @auther: Administrator
-     **/
-    public static void pushStack(MyStack myStack, int value) {
-        ListNode node = new ListNode(value);//构建一个节点，把这个节点放入数据结构
-        //stacktop 链表头 stackbottom 链表尾
-        //相当于在头结点插入一个指针 头插
-        node.next = myStack.stackTop;  //node.next - > 原来top
-        myStack.stackTop = node;//新top->node
-    }
+
 
     /**
      * @description: 遍历   实现：栈顶元素指针不指向栈底即可
@@ -42,7 +29,9 @@ public class MyStack {
      * @date: 2020/6/30 0030 18:16
      * @auther: Administrator
      **/
+    //【注意：遍历的时候，不要改变原本对象的stackTop指针】
     public static void traverse(MyStack myStack) {
+        //必须声明一个指针，否则改变了stack中原始的stackTop，如果这样遍历完之后，最后stackTop都跟stackBottom重合了，isEmpty就是true了
         ListNode stackTop = myStack.stackTop;//获取栈顶元素的指针
         // 栈顶元素指针不指向栈底即可
         while (stackTop != myStack.stackBottom) {
@@ -68,6 +57,31 @@ public class MyStack {
             return false;
         }
     }
+
+    /**
+     * @description: 进栈
+     * @name: pushStack
+     * @param: myStack 栈
+     * @param: value 进栈的数值
+     * @return: void
+     * @date: 2020/6/30 0030 18:04
+     * @auther: Administrator
+     **/
+    public static void pushStack(MyStack myStack, int value) {
+        ListNode node = new ListNode(value);//构建一个节点，把这个节点放入数据结构
+        //stacktop 链表头 stackbottom 链表尾
+        //相当于在头结点插入一个指针 头插
+        node.next = myStack.stackTop;  //node.next - > 原来top
+        myStack.stackTop = node;//新top->node
+
+        /*
+        * 写成这样也可以
+        * */
+        ListNode next = myStack.stackTop;
+        myStack.stackTop = new ListNode(value);
+        myStack.stackTop.next = next;
+    }
+
     /**
      * @description: 出栈
      * @name: popStack

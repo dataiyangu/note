@@ -4,7 +4,6 @@ import com.leesin.arithmetic.tree.Traverse;
 import com.leesin.arithmetic.tree.TreeNode;
 
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @description:
@@ -13,36 +12,41 @@ import java.util.Map;
  * @modified By:
  */
 public class Interview {
-    public static TreeNode buildTree(int[] preOrder, int[] inOrder) {
-        if (preOrder == null || inOrder == null) {
+    public static TreeNode buildTree(int[] preorder, int[] inorder) {
+        if (preorder == null || inorder == null) {
             return null;
         }
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < inOrder.length; i++) {
-            map.put(inOrder[i], i);
+        HashMap map = new HashMap();
+        for (int i = 0; i < inorder.length; i++) {
+            map.put(inorder[i],i);
         }
-        TreeNode head  = buildTree(preOrder, 0, preOrder.length - 1, inOrder, 0, inOrder.length - 1, map);
-        return head;
+        TreeNode treeNode = buildTree(preorder, 0, preorder.length - 1, inorder, 0, inorder.length - 1, map);
+        return treeNode;
     }
 
-    public static TreeNode buildTree(int[] preOrder, int pstart, int pend, int[] inOrder, int istart, int iend, Map map) {
-        if (pstart > pend || istart > iend) {
+    public static TreeNode buildTree(int[] preorder, int prstart, int preend, int[] inorder, int instart, int inend, HashMap<Integer, Integer> map) {
+        if (prstart > preend || instart > inend) {
             return null;
         }
-        TreeNode head = new TreeNode(preOrder[pstart]+" ");
-        int index = (int) map.get(inOrder[pstart]);
-        //左递归
-        buildTree(preOrder, pstart, pstart + index - istart, inOrder, istart, index-1, map);
-        buildTree(preOrder, pstart + index - istart+1,pend , inOrder, index+1, iend, map);
+        TreeNode head = new TreeNode(preorder[prstart]+"");
+        Integer index = map.get(preorder[prstart]);
+        head.left = buildTree(preorder, prstart + 1, prstart + index - instart, inorder, instart, index-1, map);
+        head.right  = buildTree(preorder, prstart + index - instart + 1,preend, inorder, index + 1, inend, map);
         return head;
     }
-
 
     public static void main(String[] args) {
-        int[] preorder = {3, 9, 20, 15, 17};
-        int[] inorder = {9, 3, 15, 20, 7};
+        int[] preorder = {2, 5, 4, 6, 7, 8};
+        int[] inorder = {2, 5, 4, 6, 7, 8};
 
         TreeNode treeNode = buildTree(preorder, inorder);
-        Traverse.levelOrder(treeNode);
+        Traverse.levelOrder(treeNode); //2 5 4 6 7 8
+
+
+//              6
+//           /     \
+//          5       7
+//         / \       \
+//        2   4       8
     }
 }

@@ -1,9 +1,5 @@
 package com.leesin.arithmetic.queue.myTest;
 
-import com.google.thirdparty.publicsuffix.PublicSuffixPatterns;
-
-import java.util.Queue;
-
 /**
  * @description:
  * @author: Leesin Dong
@@ -21,35 +17,47 @@ public class MyQueue {
         this.rear = rear;
     }
 
+    //判断是否满
     public static boolean isFull(MyQueue myQueue) {
-        if ((myQueue.rear + 1) / myQueue.arrays.length == myQueue.front) {
+        if ((myQueue.rear + 1)%myQueue.arrays.length == myQueue.front) {
             return true;
+        } else {
+            return false;
         }
-        return false;
     }
+
+    //判断是否空
     public static boolean isEmpty(MyQueue myQueue) {
-        if ((myQueue.rear + 1) / myQueue.arrays.length == myQueue.front) {
+        if (myQueue.rear == myQueue.front) {
             return true;
+        } else {
+            return false;
         }
-        return false;
     }
 
+    //入队
     public static void enQueue(MyQueue myQueue, int value) {
-        myQueue.arrays[myQueue.rear ] = value;
+            myQueue.arrays[myQueue.rear] = value;
+            myQueue.rear = (myQueue.rear + 1) % myQueue.arrays.length;
     }
 
-    public static void travers(MyQueue myQueue) {
-
-
-    }
-
-
+    //出队
     public static void outQueue(MyQueue myQueue) {
-        myQueue.front = (myQueue.front-1) / myQueue.arrays.length;
+        myQueue.front = (myQueue.front + 1) % myQueue.arrays.length;
     }
+
+    //遍历
+    public static void travers(MyQueue myQueue) {
+        int front = myQueue.front;
+        while (front!=myQueue.rear) {
+            System.out.println(myQueue.arrays[front]);
+            front++;
+        }
+    }
+
     public static void main(String[] args) {
         MyQueue myQueue = new MyQueue(new int[6], 0, 0);
-        System.out.println(isEmpty(myQueue));
+        System.out.println(isEmpty(myQueue)); //true
 
         enQueue(myQueue,1);
         enQueue(myQueue,2);
@@ -57,10 +65,10 @@ public class MyQueue {
         enQueue(myQueue,4);
         enQueue(myQueue,5);
 
-        System.out.println(isFull(myQueue));
+        System.out.println(isFull(myQueue));//true 因为有一个是浪费的
 
-        travers(myQueue);
+        travers(myQueue);//12345
 
-        outQueue(myQueue);
+        outQueue(myQueue);//1
     }
 }

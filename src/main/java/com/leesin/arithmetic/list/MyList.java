@@ -83,7 +83,18 @@ public class MyList {
      * @auther: Administrator
     **/
     public static int find(ListNode head,int value) {
-        // 需要返回的下标先声明一下，刚开始声明成-1，如果没找到的话，就会返回-1
+        //可以直接写成这样
+        int index = 0;
+        while (head != null) {
+            if (head.value == value) {
+                break;
+            }
+            index++;
+            head = head.next;
+        }
+        return index;
+
+       /* // 需要返回的下标先声明一下，刚开始声明成-1，如果没找到的话，就会返回-1
         int index = -1;
         //按照遍历的方式 当head不为null
         //count累加知道循环的次数，从而知道当前的下标
@@ -100,7 +111,7 @@ public class MyList {
             head = head.next;
         }
         //没有找到index是-1
-        return index;
+        return index;*/
     }
 
     /**

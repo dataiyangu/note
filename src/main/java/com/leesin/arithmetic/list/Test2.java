@@ -32,6 +32,8 @@ public class Test2 {
         ListNode head = null;//合并之后的头结点
         if (head1.value > head2.value) { //链表1 的头结点 > 链表2 的头结点
             head = head2; //合并之后的头指针指向较小的节点
+
+            //两个参数的位置可以交换的
             head.next = mergeTwoList(head1, head2.next);//在剩余的节点中找下一个节点
         } else {
             head = head1;//合并之后的头指针指向较小的节点
