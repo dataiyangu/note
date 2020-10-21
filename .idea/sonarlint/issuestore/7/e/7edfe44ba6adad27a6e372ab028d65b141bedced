@@ -1,0 +1,6 @@
+
+X
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¿Øî¦
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¨§ñÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¿¥ÁŒûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ”Û

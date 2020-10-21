@@ -1,0 +1,22 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊõŠïúÿÿÿÿ
+f
+java:S1104"RMake arrays a static final constant or non-public and provide accessors if needed.(«¿‰â
+e
+java:S1104"QMake front a static final constant or non-public and provide accessors if needed.(ÔÃ¨²
+i
+java:S1104"PMake rear a static final constant or non-public and provide accessors if needed.(øÊÀ½úÿÿÿÿ
+@
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô
+h
+java:S1128"TRemove this unused import 'com.google.thirdparty.publicsuffix.PublicSuffixPatterns'.(†Ûã
+j
+java:S4144"VUpdate this method so that its implementation is not identical to "isFull" on line 24.(â×²
+š
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ¶ó†ÿÿÿÿÿ
+Z
+java:S1126"AReplace this if-then-else statement by a single return statement.(±œÊçÿÿÿÿÿ
+Z
+java:S1126"AReplace this if-then-else statement by a single return statement.(±œÊçÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¿¢øÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¼øÏ˜şÿÿÿÿ

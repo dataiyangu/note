@@ -1,0 +1,31 @@
+
+U	java:S125"<This block of commented-out lines of code should be removed.(Šãæc8½³·Ó.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(á¾Àüÿÿÿÿ8Éı¤ÔÔ.
+B
+java:S1068"'Remove this unused "isA" private field.(×›¡8Éı¤ÔÔ.
+[
+java:S1068";Remove this unused "POTENTIAL_BOSS_QUANTITY" private field.(’¹¥äÿÿÿÿÿ8Éı¤ÔÔ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëŞ±¹üÿÿÿÿ8êéŒÖÔ.
+V	java:S125"<This block of commented-out lines of code should be removed.(Ã¼ğÄ8½³·Ó.
+V
+java:S1068"6Remove this unused "POTENTIAL_BOSS_PRE" private field.(ˆ‘œÿÿÿÿÿ8Éı¤ÔÔ.
+N
+java:S1068".Remove this unused "LIST_FIRST" private field.(œ‡ıËıÿÿÿÿ8Éı¤ÔÔ.
+H
+java:S1068"-Remove this unused "PAGE_SIZE" private field.(’õÖ¤8Éı¤ÔÔ.
+V	java:S125"<This block of commented-out lines of code should be removed.(ƒÙà¡8½³·Ó.
+E
+java:S1068"%Remove this unused "a" private field.(ëŞ±¹üÿÿÿÿ8½³·Ó.
+I
+java:S1068".Remove this unused "EMPTY_SIZE" private field.(á¡·‰8Éı¤ÔÔ.
+\	java:S107"=Method has 23 parameters, which is greater than 7 authorized.(¶‚‡Ôüÿÿÿÿ8Éı¤ÔÔ.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×›¡8Éı¤ÔÔ.
+I
+java:S1068".Remove this unused "HOUR_COUNT" private field.(¿šÂæ8Éı¤ÔÔ.
+V	java:S125"<This block of commented-out lines of code should be removed.(„§ñ£8½³·Ó.
+V	java:S125"<This block of commented-out lines of code should be removed.(„§ñ£8½³·Ó.
+¡
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶‚‡Ôüÿÿÿÿ8Éı¤ÔÔ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ˜ÿÔ8½³·Ó.
+V	java:S125"<This block of commented-out lines of code should be removed.(™ïË®8Éı¤ÔÔ.
+[	java:S125"<This block of commented-out lines of code should be removed.(ñ¤ì¸ıÿÿÿÿ8½³·Ó.

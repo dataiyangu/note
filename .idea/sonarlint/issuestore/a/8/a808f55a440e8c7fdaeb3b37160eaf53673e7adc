@@ -1,0 +1,12 @@
+
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤°¹Ê
+r
+java:S3008"YRename this field "CONNECTION_STR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ“­½ùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ê®ð
+K	java:S106"9Replace this use of System.out or System.err by a logger.(»£ÆK
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Æ„ñ²úÿÿÿÿ
+E
+java:S1602",Remove useless curly braces around statement(õº–Ðþÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Å¦Ž
+Q
+java:S1144"8Remove this unused private "addListenerWithNode" method.( º·Öýÿÿÿÿ

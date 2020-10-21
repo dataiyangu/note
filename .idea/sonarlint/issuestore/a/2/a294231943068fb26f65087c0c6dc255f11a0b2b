@@ -1,0 +1,21 @@
+
+
+java:S4165"hRemove this useless assignment; "weakObject" already holds the assigned value along all execution paths.(Ò÷Ù ûÿÿÿÿ
+B
+java:S3740"/Provide the parametrized type for this generic.(±—ªB
+B
+java:S3740"/Provide the parametrized type for this generic.(±—ªB
+H
+java:S3740"/Provide the parametrized type for this generic.(»é´±úÿÿÿÿ
+H
+java:S3740"/Provide the parametrized type for this generic.(»é´±úÿÿÿÿ
+W
+java:S1854">Remove this useless assignment to local variable "weakObject".(Ò÷Ù ûÿÿÿÿ
+W
+java:S1854">Remove this useless assignment to local variable "weakObject".(´¦„«øÿÿÿÿ
+h
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(â¶½ž
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÍåp
+h
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(â¶½ž
+L	java:S106"9Replace this use of System.out or System.err by a logger.(³Š½Š

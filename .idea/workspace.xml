@@ -41,29 +41,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="zookeeper curator、zkclient、leader选举、watcher、分布式锁">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/concurrent/FutureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/json/JsonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/note.iml" afterDir="false" />
+    <list default="true" id="39f8b42f-30ff-4b53-9e36-8380dc8de02c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/can/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/can/ToStringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/cannot/ToStringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/cannot/ToStringUtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/TwoStackOneQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/myTest/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/myTest/MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Traverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Interview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Traverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/note.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +114,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587549333893" />
@@ -141,6 +129,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.soldevelo.findbugs.FindBugsConfigurable" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -161,46 +152,7 @@
       <recent name="F:\git_home\note\src\main\java\com\leesin\distributed\serializable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.search.test.BinarySearch" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.search.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.concurrent.FutureTest" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.arithmetic.list.myTest.Interview2" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.arithmetic.list.myTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ToStringUtils">
     <configuration name="JsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leesin.json.JsonTest" />
       <module name="note" />
@@ -219,7 +171,7 @@
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.test.*" />
+          <option name="PATTERN" value="com.leesin.object2json.can.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,20 +179,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.object2json.can.Test" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.object2json.can.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToStringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.object2json.can.ToStringUtils" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.object2json.can.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToStringUtilsTest.toObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.object2json.cannot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leesin.object2json.cannot" />
+      <option name="MAIN_CLASS_NAME" value="com.leesin.object2json.cannot.ToStringUtilsTest" />
+      <option name="METHOD_NAME" value="toObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.FutureTest" />
-      <item itemvalue="Application.Interview2" />
       <item itemvalue="Application.JsonTest" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="JUnit.ToStringUtilsTest.toObject" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.ToStringUtils" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToStringUtils" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="JUnit.ToStringUtilsTest.toObject" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.JsonTest" />
-        <item itemvalue="Application.Interview2" />
-        <item itemvalue="Application.FutureTest" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +319,12 @@
       <workItem from="1602943720741" duration="741000" />
       <workItem from="1602995486761" duration="4359000" />
       <workItem from="1603006254468" duration="288000" />
-      <workItem from="1603006625905" duration="279000" />
+      <workItem from="1603006625905" duration="967000" />
+      <workItem from="1603016128752" duration="14625000" />
+      <workItem from="1603273764733" duration="887000" />
+      <workItem from="1603277095860" duration="313000" />
+      <workItem from="1603277834518" duration="159000" />
+      <workItem from="1603278138004" duration="1990000" />
     </task>
     <task id="LOCAL-00001" summary="rpc socket serializable">
       <created>1585554384427</created>
@@ -344,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587214280762</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1603006996701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603006996701</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,12 +407,14 @@
     <MESSAGE value="rpc socket serializable" />
     <MESSAGE value="nio" />
     <MESSAGE value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
-    <option name="LAST_COMMIT_MESSAGE" value="zookeeper curator、zkclient、leader选举、watcher、分布式锁" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="380" y="158" width="1146" height="754" key="#Plugins" timestamp="1602996518416">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="285" y="132" width="1146" height="754" key="#Plugins" timestamp="1603277989917">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="285" y="132" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1603277989917" />
     <state x="380" y="158" width="1146" height="754" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1602996518416" />
     <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1602738387672">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -405,51 +424,77 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="553" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602942959190" />
+    <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603280792331">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1603280792331" />
     <state x="711" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602939670433">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="711" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1602939670433" />
-    <state x="516" y="114" key="CommitChangelistDialog2" timestamp="1602925174331">
+    <state x="516" y="114" key="CommitChangelistDialog2" timestamp="1603006996395">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="516" y="114" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1602925174331" />
-    <state width="1878" height="293" key="GridCell.Tab.0.bottom" timestamp="1602935940136">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="516" y="114" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603006996395" />
+    <state width="1398" height="182" key="GridCell.Tab.0.bottom" timestamp="1603280764594">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602935940136" />
+    <state width="1398" height="182" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603280764594" />
+    <state width="1878" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603170614012" />
     <state width="1878" height="236" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1602488295435" />
-    <state width="1878" height="293" key="GridCell.Tab.0.center" timestamp="1602935940135">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="182" key="GridCell.Tab.0.center" timestamp="1603280764592">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602935940135" />
+    <state width="1398" height="182" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603280764592" />
+    <state width="1878" height="167" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603170614010" />
     <state width="1878" height="236" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1602488295434" />
-    <state width="1878" height="293" key="GridCell.Tab.0.left" timestamp="1602935940134">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="182" key="GridCell.Tab.0.left" timestamp="1603280764591">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602935940134" />
+    <state width="1398" height="182" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603280764591" />
+    <state width="1878" height="167" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603170614009" />
     <state width="1878" height="236" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1602488295433" />
-    <state width="1878" height="293" key="GridCell.Tab.0.right" timestamp="1602935940135">
+    <state width="1398" height="182" key="GridCell.Tab.0.right" timestamp="1603280764593">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="182" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603280764593" />
+    <state width="1878" height="167" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603170614011" />
+    <state width="1878" height="236" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1602488295435" />
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog" timestamp="1603016869876">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602935940135" />
-    <state width="1878" height="236" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1602488295435" />
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603016869876" />
     <state x="144" y="79" key="MergeDialog" timestamp="1602331425982">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1602331425982" />
-    <state x="448" y="121" key="SettingsEditor" timestamp="1602996572261">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="336" y="101" key="SettingsEditor" timestamp="1603277182577">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="336" y="101" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603277182577" />
     <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602996572261" />
     <state x="448" y="121" key="SettingsEditor/0.23.1920.973@0.23.1920.973" timestamp="1602944053424" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1603006998779">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603006998779" />
+    <state x="773" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603006964659">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603006964659" />
+    <state x="421" y="205" width="598" height="490" key="find.popup" timestamp="1603161700444">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603161700444" />
     <state x="463" y="170" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602331419774">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="463" y="170" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1602331419774" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1602996501929">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup" timestamp="1603279571536">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602996501929" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603279571536" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603202669830" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -463,6 +508,9 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/note$Test.ic" NAME="Test Coverage Results" MODIFIED="1603078721151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leesin.test.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/note$Interview1.ic" NAME="Interview1 Coverage Results" MODIFIED="1596946373172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.leesin.arithmetic.list.myTest.*</FILTER>
     </SUITE>

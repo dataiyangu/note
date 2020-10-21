@@ -1,0 +1,12 @@
+
+C
+java:S3740"/Provide the parametrized type for this generic.(ôº·à
+C
+java:S3740"/Provide the parametrized type for this generic.(ôº·à
+^
+java:S2259"KA "NullPointerException" could be thrown; "softReference" is nullable here.(…ë‘
+O
+java:S1854";Remove this useless assignment to local variable "softRef".(„¥âå
+U
+java:S1854"ARemove this useless assignment to local variable "softReference".(ôº·à
+K	java:S106"9Replace this use of System.out or System.err by a logger.(…ë‘

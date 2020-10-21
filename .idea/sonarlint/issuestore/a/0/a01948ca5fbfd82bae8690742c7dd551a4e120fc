@@ -1,0 +1,11 @@
+
+K	java:S106"9Replace this use of System.out or System.err by a logger.(à¢…w
+L	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî
+P
+java:S1854"<Remove this useless assignment to local variable "minIndex".(ºò¨Ë
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÛÄÃ¯ÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(åå¼Úýÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ðý…£ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî
+O	java:S125"<This block of commented-out lines of code should be removed.(ª½Óë

@@ -1,0 +1,23 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊõŠïúÿÿÿÿ
+p
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "pop1".(¦ºÁş
+p
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "pop1".(˜¬òÍ
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Â­°ı
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ËàŞÃ
+i
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŞÉúùıÿÿÿÿ
+i
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŞÉúùıÿÿÿÿ
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş³á
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş³á
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Œ±ˆ“üÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(¥ÆŞÇ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(œ›ı˜øÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øè«‹
+L	java:S106"9Replace this use of System.out or System.err by a logger.(øè«‹

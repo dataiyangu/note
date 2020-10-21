@@ -1,0 +1,13 @@
+
+M
+java:S1854"9Remove this useless assignment to local variable "apple".(¥ž¼»
+h
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ýþ‡º
+h
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+U
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ñðË9
+>
+java:S1481"*Remove this unused "apple" local variable.(¥ž¼»

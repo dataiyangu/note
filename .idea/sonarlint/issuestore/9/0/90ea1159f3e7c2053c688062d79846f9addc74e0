@@ -1,0 +1,12 @@
+
+]
+java:S2147"DCombine this catch with the one at line 22, which has the same body.(åþŒóùÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ûÃÈ
+B
+java:S3740"/Provide the parametrized type for this generic.(ÓÛ¼X
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+C
+java:S3740"/Provide the parametrized type for this generic.(Ô÷´ñ
+B
+java:S3740"/Provide the parametrized type for this generic.(ÓÛ¼X

@@ -1,0 +1,18 @@
+
+M
+java:S4973"9Use the "equals" method if value comparison was intended.(³×¦‡
+3
+java:S1659"Declare "b" on a separate line.(ƒøŞ“
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÕøêÑıÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(üÕÇ§
+T	java:S125"<This block of commented-out lines of code should be removed.(Êë÷¹ıÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(³×¦‡
+O	java:S125"<This block of commented-out lines of code should be removed.(şéÜÈ
+@
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜
+E
+java:S3011",This accessibility bypass should be removed.(óÜÖùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(«Õıÿÿÿÿ
+@
+java:S3011",This accessibility bypass should be removed.(À ‘Ì
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ìÉØò

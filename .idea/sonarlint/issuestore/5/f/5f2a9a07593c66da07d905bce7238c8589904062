@@ -1,0 +1,23 @@
+
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤È£’ûÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£³£¢üÿÿÿÿ
+?
+java:S1612",Replace this lambda with a method reference.(Ùëþ.
+?
+java:S1612",Replace this lambda with a method reference.(Ùëþ.
+š
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õùíêÿÿÿÿÿ
+•
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÞÖ˜½
+F
+java:S1135"2Complete the task associated to this TODO comment.(ÙÓ›†
+A	java:S108")Either remove or fill this block of code.(µ—ýôúÿÿÿÿ
+F
+java:S1135"2Complete the task associated to this TODO comment.(ÙÓ›†
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÞÖ˜½
+A	java:S108")Either remove or fill this block of code.(ñÊÁ§þÿÿÿÿ
+Y
+java:S1854"ERemove this useless assignment to local variable "synchronizedTest2".(Ÿ¿­ 
+J
+java:S1481"6Remove this unused "synchronizedTest2" local variable.(Ÿ¿­ 

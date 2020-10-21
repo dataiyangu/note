@@ -1,0 +1,27 @@
+
+R
+java:S3516"9Refactor this method to not always return the same value.(òá©âüÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†âß¥
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óĞ¾­
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ»¿”ùÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¦±Í
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ²êªúÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¦•Š
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê·¿‡ûÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¿ÙÇ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë°òëşÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÓĞ±üÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉäÅôşÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÛÓ¼ıÿÿÿÿ
+[
+java:S2259"BA "NullPointerException" could be thrown; "root" is nullable here.(ÍØ‡Äÿÿÿÿÿ
+K
+java:S2589"7Remove this expression which always evaluates to "true"(ú‚§±
+K
+java:S2589"7Remove this expression which always evaluates to "true"(ú‚§±
+f	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÑ‰ÿÿÿÿÿ
+f	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÒÁÓûÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ïÇÁ&
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ëéŸ¶ùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(·‹„şÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(äÁ‡şÿÿÿÿ
