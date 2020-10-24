@@ -6,7 +6,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;
-import org.junit.Test;
 
 import java.util.*;
 
@@ -22,7 +21,7 @@ import java.util.*;
 @Slf4j
 public class ToStringUtilsTest {
 
-    @Test
+    //@Test
     public void toObject() throws Exception {
         DemoBean demoBean = DemoBean.builder()
                 .c1('c').c2('d').s1((short) 1).s2((short) 2)

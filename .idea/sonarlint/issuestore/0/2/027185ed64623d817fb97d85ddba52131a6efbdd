@@ -1,11 +1,0 @@
-
-V	java:S125"<This block of commented-out lines of code should be removed.(øøÐäýÿÿÿÿ
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸‹Ðøýÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì¡ôÂ
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(®²ƒ›ùÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ž«®ƒýÿÿÿÿ
-\
-java:S2142:"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-_
-java:S2147<"DCombine this catch with the one at line 58, which has the same body.(åþŒóùÿÿÿÿ

@@ -1,18 +1,18 @@
-<!--set方式-->
-<bean name = "demoController" class = "com.leesin.spring.DemoController">
- <property name = "demo" ref = "demo"/>
-</bean>
-<bean name = "demo" class="com.leesin.spring.Demo"/>
+<!--&lt;!&ndash;set方式&ndash;&gt;-->
+<!--<bean name = "demoController" class = "com.leesin.spring.DemoController">-->
+<!-- <property name = "demo" ref = "demo"/>-->
+<!--</bean>-->
+<!--<bean name = "demo" class="com.leesin.spring.Demo"/>-->
 
 
-<!--构造注入-->
-<bean name = "demoController" class = "com.leesin.spring.DemoController">
-    <!--多个的话可以配置多个-->
-    <!--  类型一样，不知道哪个赋对应的值的时候
-      1 index
-      2 参数类型
-      -->
-    <constructor-arg index = "0" type ="java.lang.Object" ref ="demo"/>
-    <constructor-arg index = "1" ref ="demo"/>
-</bean>
-<bean name = "demo" class="com.leesin.spring.Demo"/>
+<!--&lt;!&ndash;构造注入&ndash;&gt;-->
+<!--<bean name = "demoController" class = "com.leesin.spring.DemoController">-->
+<!--    &lt;!&ndash;多个的话可以配置多个&ndash;&gt;-->
+<!--    &lt;!&ndash;  类型一样，不知道哪个赋对应的值的时候-->
+<!--      1 index-->
+<!--      2 参数类型-->
+<!--      &ndash;&gt;-->
+<!--    <constructor-arg index = "0" type ="java.lang.Object" ref ="demo"/>-->
+<!--    <constructor-arg index = "1" ref ="demo"/>-->
+<!--</bean>-->
+<!--<bean name = "demo" class="com.leesin.spring.Demo"/>-->
