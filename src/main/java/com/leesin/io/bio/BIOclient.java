@@ -23,5 +23,9 @@ public class BIOclient {
         if (socket != null) {
             socket.close();
         }
+
+
+
     }
+
 }

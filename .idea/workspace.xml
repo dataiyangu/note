@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.39462128" />
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="AutoImportSettings">
@@ -8,488 +9,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4bd7a42-6f59-4e1d-b8fa-582795d39bd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dianping_cat_cat_client_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_framework_common_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_framework_logging_spring_boot_starter_1_8_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_common_platform_common_1_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_config_client_0_10_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_config_core_0_10_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_media_process_api_1_0_4_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_media_process_sdk_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_tracing_tracer_context_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_24_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_3_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d6bf2b2608e46a98fd77567d6173bf5c348e4ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/basic/EqualsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/polymorphism/davis/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/polymorphism/davis/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/polymorphism/staticmethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/rebel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28a30c2adf1885ccef1161f43ddaf8b552de0cd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/449fafd6ff9f83a25a0572eaa536941aa588f82a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f2a9a07593c66da07d905bce7238c8589904062" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64ea5c0075b057082b3601961338d285daa9fddb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69f4f3e62896f314cdd04c17a6485e8e893ea3a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8811ba1049fb654d0506c1b535e4c4aa859c9af9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f68cdc15f3cba344e82e921bfa7895ba6a03711" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a435b7d06158b3669ed33823e18550b5bd8812f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a46c372950591aa390abf14f895835cc69dda104" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7709ff64f4b6df04f4064c56340d557191598d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0332934d67413748eed28fb8e09a1f5bb0de56d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b315dadfbc917d8ab7adbae52c30f94f9588efa8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4306f38471e51b4e983ed59a8b826418f69a2ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9767944fdd2bfa4825ee5097353c4cbbe4b491e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf47eea9e3d108871a829ec3fceaefd43e694ebd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/dee83212064dbb515155ce8b5d1143bffbb213c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f27c46ec0e8035e1082fd4dd00a5c5c68cd83b8b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8e4f52d9961f430da62b8451b31cb0ec5a61201" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb5716bd0d7e27db6a6cd8d431dd48c5098a3eda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/bitmap/BitMapUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/json/compare/json/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/findbugs-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/note.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_10_10,_8_01_下午_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2020_10_10__8_01___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00dea99867b00ab087203a461b9302233322d261" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01641ee3c18b7b8797fa2c79b01f2b8edc1ce1b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/027185ed64623d817fb97d85ddba52131a6efbdd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/0341eda1c79a0ba6c1db701a56d5690bc1da6386" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04d6d0df73ee5d131a2e7d2493a6423c23146ebf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0590301aeeeb3e6f330e5f0022dc2ca45a6c28e1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/069c863f2f0f9fde1dfd831e55408c5f26700ee3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07c217eb44340ced26cc442fc9088597c171d47a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0ce0b5e60040839a460c7575c3f37c6ff0b657e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dff8b47505d8c849ddcf96a21c10c014db6df9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e991473d3ea29ebcbe0249af7ac8dac1bc6dacb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12de338c1e7d1ff40927fbd0a1073ef3cd17dcc8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15e842443ad0d8614bc214b6f3b78aa010af59bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1621c9700d7428fd4abae94ff5bb0dba6a2101da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16426eb3df5d65fe94244ebda8102776b095f470" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16e1c593522c6738cb5732c22fc27e0dd4fe96a2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/1705890cdd808bad03dee4d7ce42f295ce6a0e27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17090310ea667d6433772a7a2ed93acdfd6e749e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b047f873788b6739b4b197cdbb3093c365353db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bbd9537f5589a5f580ed430bd7e967614322397" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c269f7e3695a9e2d29a1d96f5473e14d1ad0540" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1cf274966bace124bb89e9f2c5ada197445a21db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1eccae4628cf4ffbe7711995b46c267c51f799a3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1ed91d8f6fe70bd2476c42e781a24d24abf37603" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2175799534525c28adcd8675c88b78129487d48f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/219cc27681226fa3affb198b94ec507bc1f704ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22261bc638509a70045b0ebab06b405d02c98510" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/235af10fa02b82a5cecdfc3759c3079ad0956827" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/240a1fdf9750031bef39badd5e923007f09118a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/255385feeae33ca98dc3a5198ccf711e272f768d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26c3f011b7cdfbb6f20612fd78113fc0768eefb6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28a30c2adf1885ccef1161f43ddaf8b552de0cd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28b246885debb2ca4b489e4e4372980154583533" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bb88e3ab44ddf76824159d2de91aff566bd64f6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d0037986ecadbfd15de181fa5ae9278a5870a06" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d449aa493d9eca3ec2cedc5baffb4b3d81957be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3000548def25952cd6848696d72406d4bf377d60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3052c947d1ee3e28e1a150095c6b630ad816c090" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31681fabe035914f035a9cea0328e8acc9b513e7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/338c9145b0a81e90b3b8dd4d3eb3f63ec0e84963" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/3498ea2cd1f3b6086488070ea4b37ac5b8348e24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35a4424b8868375d5700c0888322729c10c236c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/372ce4bdd983316cc44c4f7379178e1a5dbf92ac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/372d63be4f26787fff9d076b953c503bf1fb7c03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38947ea1669b064901141f132aa52645693be597" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a401c11b865996a05803e195286c7e1f2fa92eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b34d1506f2567e6925f5ae99d449821a30485b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3da01db98b88a8057c03354880f06dba49d3e795" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e2ac4c14f0c682b1321bd49628f4ec8c82ba017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e303a8109fde508946597c467ad6f992d5fa422" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40787073d03e387dbd82d4f2d2f5f173343e1597" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/407e4d76fda06a481481b202ce5c08921464744c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4204c9a1e7013729826e37eb246852b973957b75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42edebaa198b1f7b684d878b4d2c722d9e1c646a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440db613daeb8517a95b4ac84452ac775be6a6e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/449fafd6ff9f83a25a0572eaa536941aa588f82a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47262336acd0cde20d0582642f9013205f97e348" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48c4370e6999f9e1154c95f923b8803b76ace7da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bc40817b397a23d5ebcc53aadf8b2e5d1a27d32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4cdca211063bec17054d86ad81efe99f8cc49639" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d11445305253aaa1b910c297928d8f40c58e691" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d284589daadd8535737d04afbdd5c25314a6f3c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dfe984ba9aaee0f410dfadbaeb288f15c694517" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f41d1d8c4c88e4d1d46fb50168c669711888291" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f89f804719add651dffdc186a19624f065647d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/544d3d570228ca9d4eac83f2a926ae6e1cd5443e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/562380680d025d8ebc679f8d05d37371b4d83af3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/585be5b11f662753a7a4635a5ff7d6e68cfd21a3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59cfb06be939d997c346582ba9dde2a388e2d348" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5bf9c45fe7774bebeeee323d3fe195e2df7c319c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c5fc8021cb833a061808184bb7699d010bec2f8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4d8018cea592dc2713be0e8eeecdc7088815fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f2a9a07593c66da07d905bce7238c8589904062" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60d28233262681d35797ad5997eef425e34c64ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60d898b95e839bf69ceb0950345dd1f951f48b0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61cdeaa4f9475f4d1976ce6f77a4ccd4e8392771" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/659f7c8b64c51fe1640bd61b4ceaf60ae8704d1c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65bd732f9166982ec8a46525bc45b75e817abefa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6602ad45203086306aafd7a0dd8f96c134ab34fd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66652406ecd9f76f321f244024a6d88845713fb1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/668ee3a62ce74749105d3ecc963415a59e4c5c59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69f4f3e62896f314cdd04c17a6485e8e893ea3a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d1bc35625f1113dd4a5005453bf44a4eed9c5bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ecfeee935d9faf2413c295582cce94361cd194d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ede8c0ad6f803bf37fae66fea88d9bdc860d275" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6ffc0cd1e81181cb44e483272ca42bd909a40bc3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76b6cc6b211cbdac8aea97daf776b68696fabf0c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7859772830b9679bccdeb10701857b53e9101d69" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/788b903a556cc5e79997614155988427ea6abe4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/796fc3b6b12cce5942b9387aa71138eb933ee3ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b6d0d5a6803371c637244c4350303e636571a6c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7ba05d04ce9f670b61c9b15fcd37ee7537771a20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7edfe44ba6adad27a6e372ab028d65b141bedced" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f84026efe63262759f845214852998237f208fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87dd960a62a7c2944f1376d366c15382f335f9bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8811ba1049fb654d0506c1b535e4c4aa859c9af9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bf9a0c76cee89021a19081a2d70237db7e2fd8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c7d7747486bc3c15e0d5be57a22e93cc73049ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f72b654ddf5ddb983cfdce2b554375937718b8c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90c987515ede9cce30f87402cb7003cb7cd7e968" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ea1159f3e7c2053c688062d79846f9addc74e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/957834bd84ee7bafc250e59699c55edb11adaeb1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9640ad93637c2927e4c12895ccbb55564879ce30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98316d47d5b73f4e6d51805f0a0be086119161b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99a2c1e426913355ca3b8e397c9fb421d2c32909" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dd7737cba2b01f9d000df326fa8044082d0950d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a01948ca5fbfd82bae8690742c7dd551a4e120fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1778b3ab0491251081b4f8697f1eff6f1d25b8c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a265fd70b3996748493919b877aaca9e9b3dee9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a294231943068fb26f65087c0c6dc255f11a0b2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2c33b3ab518d14885807cfef11584f22cc11a1f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a37d669ccc1251913c0d541529a7e9237ac03321" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a435b7d06158b3669ed33823e18550b5bd8812f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a46c372950591aa390abf14f895835cc69dda104" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4adba30ad7c0002e28ad9966cff0546cd86073c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a808f55a440e8c7fdaeb3b37160eaf53673e7adc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a83d11dc185c8805b9aac123d74abc9daf3c899c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a85287766f2df7adc9c055454a53d307f813148b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8a43d02fee20bf72e98ac6bff869f97f4e19903" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9c0e40f7e0135a51633e7ccb9ddbcbef55b036c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa12e4622b42a7260083882d7fb994867b61bead" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab096a781e70b36924eda4a688c7397d8685a221" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae9a0d89f3de9d7b00e5082b7b4a13d22f69d74e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0332934d67413748eed28fb8e09a1f5bb0de56d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b06d6df705021b2f7b200ad3a157c2de6de80c4f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0d685768b192ad484037330a7f0f75ade383380" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0d78ea3300a4e7b0677bef4871f20458ff3dd4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b152726f8be54d6d0b7767043a99e3e339770ddf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b15285c3ff1ca17073e4e9e273bb1b9633444a58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b315dadfbc917d8ab7adbae52c30f94f9588efa8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4733ed8041044b089b312856ac5f287a00a1c2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6f79e9f29714d9e2807bab9d37e2515e46908b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b747178c0b82b8b693e884dbaa3b8a1954f31f26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8dd059088f4d66492bfbfc0154ec9bfce125608" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b93a8adc61bd384cf0168a58552e65d2a714e702" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b94f809702d5659a25de929e9ac195af12e05ac5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba9cbe229b0f6b2773cb6281e2f223f136dfa1e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd0211164f7a713865b9932ad4f3b2c62c11ea15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6b1ec72a50021164ea079d13a944b2a61fc68b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beb25120b25ee4ee6456b8cd255c5074a4b614b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfaad19d51719b5cf491b2ccbaf4975ff5f56ad4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0d3d47a3f0f03789908286d7c56334efba8f8c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c121032185a914854369d9d1be8725e726f018d9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c57bb901926de0e4de369a77fe84c48449324f9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6c916513cc55b42a8f58f2b9e1c018e9ab2666c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c81cc3629bb2a87d48e203bf94ac53bc24f13988" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c886b13bae5492f3906e7e1b4e3ba49838adc1af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca326ec5423258ef02cb0cd7ba345fb9cd6bc75a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caa11b8ef9b5e9fc611ce896c202897371233fbc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc3886014177e806428144fa63ad3551c8efad75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc7a12c203a79ae5bd8d015c169a93ffd359a8dd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc7f6b238a5cf5f8c8512f22dddeadd35a21ea4b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd6a9ad13afbe71cb366d51ab6ea8a648f21a2ae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd9f8ed1e4dd65064b84771c938829bb332df6b5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf47eea9e3d108871a829ec3fceaefd43e694ebd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d07fcfbad6593840846bc27df81fc4c8bf7984a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d40fadf83e46de9f21a4dcaa28f939b47077e29b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d55520f4e7df80f7f44bb8b414d9f6b13c925887" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d55be9f541ea2d822def85801029da8f1f01c929" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d66148a40df8d085594056ae7c0418647c6e2df9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dae5876932c623fb413879c9d6d3e51dd2f0f0e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db100b23206cb1b3737321e3bfe775058d504d78" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db11b6252cba5d49650707f4a59a696c8ec8b320" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db226b72262a7aeed9fc329945d06fcbd1eea32e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc75041636f4aa98c9735dc2574a61b0d6229aaa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de36b66bfffaf3082d1556ded2b7c70e265a7b5b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0f8de37e1ac1b210b57371b9ee6b40a36464e67" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8aaa1c17ba09f5a7236ceee963f6b8d3bb871a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8c2f2eb69669563ab9ce2270ec0fb60e4ee94fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8c32f81c8f97c6716d99bd2ab08334e38691dbe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e93ac5ea6b2289d09ea4fbc7d98bc7e82be58952" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec9e3cbb6035bea94b1fceb25c0a1335a9a15272" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef7c8f906808dfcad38141574d0c9dbd3e222a51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/efbc96fed15b4674581d3b9eb2864e2c0397946a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f278400ca3cb9de7d9ef6fa223710896abd7349d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f27c46ec0e8035e1082fd4dd00a5c5c68cd83b8b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5503ec1cf6d849481c4bbe3fa3bce2169a89091" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f681d422d2956f079873d33ab9b8c59f1bf11d8f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f84e5080978bccf275b8af82bc8188f5664cd1e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8dc7d1e372fe26dedcf3e0a87253f9e2873be99" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9790682d63bb0982cda6245df65270b8cc34dda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb4339a571ecee2c8de682b9f0acbd27938240bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fcfd732b10b6efe79855a7453d2a5bb6f978c09c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd9f70a3c947c49ee687aa684f32f260ea1e4a4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe04c940fc5e1a0bb85cbdb407b375f25693a880" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe6dc1704c89f56360001fec1967adea79d6aa47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe9e281e4aea5df97e8e7df6d6948bc57b7fd2a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dianping_cat_cat_client_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dianping_cat_cat_client_3_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_framework_common_1_8_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_framework_common_1_8_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_framework_logging_spring_boot_starter_1_8_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_framework_logging_spring_boot_starter_1_8_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_common_platform_common_1_4_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_common_platform_common_1_4_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_config_client_0_10_12_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_config_client_0_10_12_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_config_core_0_10_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_config_core_0_10_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_media_process_api_1_0_4_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_media_process_api_1_0_4_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_media_process_sdk_1_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_platform_media_process_sdk_1_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_tracing_tracer_context_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yupaopao_tracing_tracer_context_1_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_24_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_24_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_3_beta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_3_beta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d6bf2b2608e46a98fd77567d6173bf5c348e4ee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d6bf2b2608e46a98fd77567d6173bf5c348e4ee" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/note.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/basic/com/leesin/basic/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/basic/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/can/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/can/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/cannot/ToStringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/cannot/ToStringUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/spring/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/spring/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/READEME.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/READEME.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListDG$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListDG$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListDG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListDG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListNDG$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListNDG$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListNDG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/ListNDG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/MatrixDG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/MatrixDG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/MatrixNDG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/greph/MatrixNDG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Interview2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Interview2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/list/myTest/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/other/FibonacciDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/other/FibonacciDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/TwoStackOneQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/queue/myTest/TwoStackOneQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/search/test/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/Bubble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/MergetSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/insertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/insertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/MergetSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/inserSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/sort/test/inserSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/myTest/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/stack/myTest/MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Depth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Depth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Interview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/LowestAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/LowestAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/Traverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Depth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Depth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Interview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/LowestAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/LowestAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/arithmetic/tree/myTest/Traverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/basic/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/basic/IteratorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/basic/com/leesin/basic/HashMapDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/cglib/SampleClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/cglib/SampleClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/cglib/SampleClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/cglib/SampleClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test$3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/cglib/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg1/Sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg1/Sample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg1/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg1/TestSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg1/TestSub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg2/SingtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/eg2/SingtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Write.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/classloader/egme/Write.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/clone/CloneDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/clone/CloneDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/clone/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/clone/Email.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/clone/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/clone/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/concurrent/FutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/concurrent/FutureTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/configuration/GenericConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/configuration/GenericConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/configuration/PropertiesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/configuration/PropertiesDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/FastJsonSerilizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/FastJsonSerilizer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/ISerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/ISerializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/JavaSerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/JavaSerializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/JavaSerializerWriteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/JavaSerializerWriteFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/ProtobufDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/ProtobufDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/SerialDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/SerialDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/SocketClientConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/SocketClientConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/SocketServerProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/SocketServerProvider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos$User$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos$User$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos$User$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos$User$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos$User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos$User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/UserProtos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/XStreamSerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/serializable/XStreamSerializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ClientDuplext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ClientDuplext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ServerDuplex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/ServerDuplex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/distributed/socket/server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/exception/ExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/exception/ExceptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/exception/RejectException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/exception/RejectException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/exception/SafeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/exception/SafeException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/ConcurrentHashMap/ConcurrentHashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/ConcurrentHashMap/ConcurrentHashMapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/CyclicBarrier/CycliBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/CyclicBarrier/CycliBarrierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/CyclicBarrier/DataImportThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/CyclicBarrier/DataImportThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/Interrupt/InterruptDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/Interrupt/InterruptDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/Interrupt/InterruptDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/Interrupt/InterruptDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/Interrupt/InterruptDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/Interrupt/InterruptDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/cas/AtomicStampedRefrenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/cas/AtomicStampedRefrenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/condition/ConditionDemoSignal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/condition/ConditionDemoSignal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/condition/ConditionDemoWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/condition/ConditionDemoWait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/condition/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/condition/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/countDownLatch/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/countDownLatch/CountDownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/countDownLatch/HeightConcurrentDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/countDownLatch/HeightConcurrentDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/Callable_Future.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/Callable_Future.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/Monitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/MonitorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/MonitorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/submitDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/executor/submitDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/forkJoin/CountTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/forkJoin/CountTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinReleaseLock$ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinReleaseLock$ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinReleaseLock$ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinReleaseLock$ThreadC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinReleaseLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinReleaseLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinSourceCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinSourceCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinTester01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/join/JoinTester01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/lock/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/lock/ReentrantLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/lock/ReentrantReadWriteLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/lock/ReentrantReadWriteLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/lock/StempedLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/lock/StempedLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/newThread/ForCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/newThread/ForCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/newThread/ForRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/newThread/ForRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/newThread/ForThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/newThread/ForThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/park/ParkDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/park/ParkDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/practic/ReentantLockAndConditionQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/practic/ReentantLockAndConditionQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/semaphore/Test$Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/semaphore/Test$Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/semaphore/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/semaphore/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/sixStatus/ThreadStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/sixStatus/ThreadStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/synchronize/synchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/synchronize/synchronizedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/threadLocal/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/threadLocal/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/threadLocal/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/threadLocal/ThreadLocalDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/volatile_/VolatileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/volatile_/VolatileDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/DDDD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/DDDD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/GetTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/GetTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/SetTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/waitNotify/producerConsumer/SetTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/yield/YieldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/heightConcurrent/yield/YieldTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/integer/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/integer/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/integer/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/integer/Person1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/integer/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/integer/Swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/integer/TransferTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/integer/TransferTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/io/bio/BIOServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/io/bio/BIOServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/concurrent/FutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/heightConcurrent/future/FutureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/io/bio/BIOclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/io/bio/BIOclient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/json/JsonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/can/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/json/object2json/can/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/can/ToStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/json/object2json/can/ToStringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/cannot/ToStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/json/object2json/cannot/ToStringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leesin/object2json/cannot/ToStringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leesin/json/object2json/cannot/ToStringUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/basic/EqualsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/basic/EqualsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/concurrent/FutureTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/io/bio/BIOclient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/io/bio/BIOclient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/io/nio/NIOServerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/io/nio/NIOServerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/json/JsonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/json/JsonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/can/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/can/ToStringUtils$ToStringTokenUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/can/ToStringUtils$ToStringTokenUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/can/ToStringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/can/ToStringUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtils$TokenUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtils$TokenUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtils$TypeValueUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtils$TypeValueUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest$DemoBean$DemoBeanBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest$DemoBean$DemoBeanBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest$DemoBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest$DemoBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/object2json/cannot/ToStringUtilsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/orm/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/orm/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/DynamicProxy/cglib/CglibDynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/DynamicProxy/cglib/CglibDynamicProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/DynamicProxy/jdk/DynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/DynamicProxy/jdk/DynamicProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/Payment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/PaymentLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/PaymentLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ProxyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ThridCHannelProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ThridCHannelProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ThridChannelPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/proxy/staticProxy/ThridChannelPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/refrence/PhantomRefrenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/refrence/PhantomRefrenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/refrence/SoftRefrenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/refrence/SoftRefrenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/refrence/StrongRefrenceDemo$Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/refrence/StrongRefrenceDemo$Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/refrence/StrongRefrenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/refrence/StrongRefrenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/refrence/WeakReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/refrence/WeakReferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/serialize/SerialDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/serialize/SerialDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/serialize/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/serialize/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/test/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/test/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/ZkClientDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/ZkClientDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/apiStudy/AclDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/apiStudy/AclDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/apiStudy/CuratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/apiStudy/CuratorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/apiStudy/WatcherDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/apiStudy/WatcherDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/interProcessMutex/LockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/interProcessMutex/LockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClientB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClientB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClientC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/curator/leaderselect/LeaderSelectorClientC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZKClientTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZKClientTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZKClientTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZKClientTest$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZKClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZKClientTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute$LockData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute$LockData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute$Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leesin/zookeeper/zkDistribute/ZkClientDistribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config-cache/ApolloNoAppIdPlaceHolder+default+org1.middleware.media.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -525,23 +158,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/leesin/test" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.EqualsDemo">
-    <configuration name="EqualsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.basic.EqualsDemo" />
+  <component name="RunManager" selected="Application.Compare">
+    <configuration name="Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.json.compare.json.Compare" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.basic.*" />
+          <option name="PATTERN" value="com.leesin.json.compare.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,25 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.polymorphism.davis.Son" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.test.Test" />
       <module name="note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leesin.polymorphism.davis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leesin.object2json.can.Test" />
-      <module name="note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leesin.object2json.can.*" />
+          <option name="PATTERN" value="com.leesin.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -588,6 +214,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.test.Test" />
+      <module name="note" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leesin.spring.Transaction" />
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -599,12 +252,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.leesin.spring in note" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leesin.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leesin.spring" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Transaction" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="JUnit.com.leesin.spring in note" />
+      <item itemvalue="Application.Compare" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EqualsDemo" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.Compare" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -621,6 +293,48 @@
       <workItem from="1603288382056" duration="331000" />
       <workItem from="1603331215626" duration="4290000" />
       <workItem from="1603348309608" duration="13639000" />
+      <workItem from="1603610254328" duration="4561000" />
+      <workItem from="1603679424548" duration="3532000" />
+      <workItem from="1603716790621" duration="2113000" />
+      <workItem from="1603850516893" duration="7000" />
+      <workItem from="1603850537268" duration="85000" />
+      <workItem from="1603850639125" duration="11000" />
+      <workItem from="1603850777209" duration="136000" />
+      <workItem from="1603851597536" duration="13000" />
+      <workItem from="1603851647212" duration="526000" />
+      <workItem from="1603942637826" duration="80000" />
+      <workItem from="1603942865710" duration="4998000" />
+      <workItem from="1603975283300" duration="2029000" />
+      <workItem from="1604282359980" duration="1797000" />
+      <workItem from="1604301556096" duration="591000" />
+      <workItem from="1604320692152" duration="38000" />
+      <workItem from="1604322475641" duration="1365000" />
+      <workItem from="1604364866639" duration="895000" />
+      <workItem from="1604365919494" duration="954000" />
+      <workItem from="1604367032717" duration="1236000" />
+      <workItem from="1604368373778" duration="531000" />
+      <workItem from="1604378953267" duration="1339000" />
+      <workItem from="1604387528403" duration="1429000" />
+      <workItem from="1604411524555" duration="1276000" />
+      <workItem from="1604459640199" duration="2239000" />
+      <workItem from="1604543712443" duration="3066000" />
+      <workItem from="1604549499832" duration="982000" />
+      <workItem from="1604550677901" duration="156000" />
+      <workItem from="1604550864951" duration="595000" />
+      <workItem from="1604552078867" duration="820000" />
+      <workItem from="1604553192460" duration="2704000" />
+      <workItem from="1604663422786" duration="525000" />
+      <workItem from="1604819439976" duration="217000" />
+      <workItem from="1604820310162" duration="232000" />
+      <workItem from="1604820595625" duration="127000" />
+      <workItem from="1604820771528" duration="345000" />
+      <workItem from="1604822922063" duration="115000" />
+      <workItem from="1604823144397" duration="618000" />
+      <workItem from="1604910043408" duration="393000" />
+      <workItem from="1605077523169" duration="1345000" />
+      <workItem from="1605173667147" duration="1448000" />
+      <workItem from="1605248870218" duration="1018000" />
+      <workItem from="1605775084552" duration="301000" />
     </task>
     <servers />
   </component>
@@ -628,39 +342,174 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="98" key="#Plugins" timestamp="1603288729762">
+    <state x="645" y="1377" width="401" height="259" key="#Custom_Plugin_Repositories" timestamp="1604548955624">
+      <screen x="233" y="1080" width="1440" height="900" />
+    </state>
+    <state x="645" y="1377" width="401" height="259" key="#Custom_Plugin_Repositories/233.1080.1440.900/0.0.1920.1080@233.1080.1440.900" timestamp="1604548955624" />
+    <state x="640" y="1223" key="#HTTP_Proxy" timestamp="1604548921407">
+      <screen x="233" y="1080" width="1440" height="900" />
+    </state>
+    <state x="640" y="1223" key="#HTTP_Proxy/233.1080.1440.900/0.0.1920.1080@233.1080.1440.900" timestamp="1604548921407" />
+    <state x="594" y="225" key="#Inspections" timestamp="1603943409693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="594" y="225" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1603943409693" />
+    <state x="320" y="98" key="#Plugins" timestamp="1604552308807">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1603288729762" />
+    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1604552308807" />
+    <state x="427" y="118" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1604367009263" />
+    <state x="553" y="1178" key="#Plugins/233.1080.1440.900/0.0.1920.1080@233.1080.1440.900" timestamp="1604549246363" />
+    <state x="738" y="315" key="#TODO" timestamp="1604364587510">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="738" y="315" key="#TODO/0.0.1920.1080@0.0.1920.1080" timestamp="1604364587510" />
+    <state x="306" y="336" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1604364409016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="306" y="336" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604364409016" />
+    <state x="306" y="326" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.23.1920.973@0.23.1920.973" timestamp="1603946597375" />
+    <state x="513" y="302" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow" timestamp="1604365453440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="513" y="302" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1604365453440" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604411570523">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604411570523" />
+    <state x="685" y="1238" key="#com.intellij.ide.util.MemberChooser" timestamp="1604548360914">
+      <screen x="233" y="1080" width="1440" height="900" />
+    </state>
+    <state x="685" y="1238" key="#com.intellij.ide.util.MemberChooser/233.1080.1440.900/0.0.1920.1080@233.1080.1440.900" timestamp="1604548360914" />
+    <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604552361743">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1604552361743" />
     <state x="745" y="441" width="430" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603534207500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="745" y="441" width="430" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1603534207500" />
-    <state width="1878" height="516" key="GridCell.Tab.0.bottom" timestamp="1603537924206">
+    <state x="648" y="172" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1604366974580">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="516" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603537924206" />
-    <state width="1878" height="516" key="GridCell.Tab.0.center" timestamp="1603537924204">
+    <state x="648" y="172" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604366974580" />
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1604541704748">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/1920.119.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1604541704748" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1605248840017">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="516" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603537924204" />
-    <state width="1878" height="516" key="GridCell.Tab.0.left" timestamp="1603537924203">
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605110362435" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604411598108" />
+    <state width="910" height="262" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1603946842135" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/1920.115.1280.777/0.23.1920.973@0.23.1920.973" timestamp="1604818418435" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/1920.92.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1605248840017" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/1920.92.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604663476855" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/1920.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604459605825" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1605248840016">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="516" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603537924203" />
-    <state width="1878" height="516" key="GridCell.Tab.0.right" timestamp="1603537924205">
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605110362432" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604411598106" />
+    <state width="910" height="262" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1603946842134" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/1920.115.1280.777/0.23.1920.973@0.23.1920.973" timestamp="1604818418432" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/1920.92.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1605248840016" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/1920.92.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604663476853" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/1920.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604459605823" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1605248840015">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="516" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603537924205" />
-    <state x="295" y="107" key="SettingsEditor" timestamp="1603435012729">
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605110362431" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604411598103" />
+    <state width="910" height="262" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1603946842133" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/1920.115.1280.777/0.23.1920.973@0.23.1920.973" timestamp="1604818418429" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/1920.92.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1605248840015" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/1920.92.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604663476852" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/1920.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604459605820" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1605248840017">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603333234729" />
-    <state x="295" y="107" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603435012729" />
-    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1603533765078">
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605110362433" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604411598107" />
+    <state width="910" height="262" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1603946842135" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/1920.115.1280.777/0.23.1920.973@0.23.1920.973" timestamp="1604818418434" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/1920.92.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1605248840017" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/1920.92.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604663476854" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/1920.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604459605824" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1604365448261">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603288720684" />
-    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603533765078" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604365448261" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1604365448260">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604365448260" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1604365448259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604365448259" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1604365448261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604365448261" />
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog" timestamp="1603944713482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="202" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603944713482" />
+    <state x="305" y="103" width="1185" height="722" key="SettingsEditor" timestamp="1604823169388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="229" y="86" width="1185" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604552990008" />
+    <state x="399" y="130" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604367442899" />
+    <state x="78" y="141" key="SettingsEditor/0.23.1920.973@0.23.1920.973" timestamp="1603946598503" />
+    <state x="305" y="103" key="SettingsEditor/1920.92.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1604823169388" />
+    <state x="462" y="1166" key="SettingsEditor/233.1080.1440.900/0.0.1920.1080@233.1080.1440.900" timestamp="1604548370731" />
+    <state x="647" y="152" key="StringManipulation.SortTypeDialog" timestamp="1603716930788">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="152" key="StringManipulation.SortTypeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603716930788" />
+    <state x="690" y="290" width="540" height="524" key="StructurePopup" timestamp="1603717438813">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="290" width="540" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1603717438813" />
+    <state x="813" y="460" key="VCS.ChangelistChooser" timestamp="1604541373000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="813" y="460" key="VCS.ChangelistChooser/1920.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604541373000" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604363779111">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604363779111" />
+    <state x="507" y="235" key="chooseDestDirectoryDialog" timestamp="1604552364192">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1604552364192" />
+    <state x="667" y="295" width="586" height="490" key="find.popup" timestamp="1604565319214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="500" y="246" width="568" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603776624407" />
+    <state x="667" y="295" width="586" height="490" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604396246911" />
+    <state x="667" y="295" width="586" height="490" key="find.popup/1920.92.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1604565319214" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1605775103716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1604552294122" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604366998329" />
+    <state x="513" y="235" width="894" height="731" key="search.everywhere.popup/0.23.1920.973@0.23.1920.973" timestamp="1603946535113" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/1920.115.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1605775103716" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/1920.92.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1604820618757" />
+    <state x="618" y="1276" width="671" height="677" key="search.everywhere.popup/233.1080.1440.900/0.0.1920.1080@233.1080.1440.900" timestamp="1604548702174" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/note$Transaction.ic" NAME="Transaction Coverage Results" MODIFIED="1603947429045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leesin.spring.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/note$com_leesin_spring_in_note.ic" NAME="com.leesin.spring in note Coverage Results" MODIFIED="1603943185434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leesin.spring.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/note$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1605237337260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leesin.test.*</FILTER>
+    </SUITE>
   </component>
 </project>

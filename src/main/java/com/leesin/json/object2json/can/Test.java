@@ -1,4 +1,4 @@
-package com.leesin.object2json.can;
+package com.leesin.json.object2json.can;
 
 import java.text.ParseException;
 

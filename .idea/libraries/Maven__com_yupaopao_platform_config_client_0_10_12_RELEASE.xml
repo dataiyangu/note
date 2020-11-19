@@ -3,9 +3,7 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/com/yupaopao/platform/config-client/0.10.12.RELEASE/config-client-0.10.12.RELEASE.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/com/yupaopao/platform/config-client/0.10.12.RELEASE/config-client-0.10.12.RELEASE-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/com/yupaopao/platform/config-client/0.10.12.RELEASE/config-client-0.10.12.RELEASE-sources.jar!/" />
     </SOURCES>

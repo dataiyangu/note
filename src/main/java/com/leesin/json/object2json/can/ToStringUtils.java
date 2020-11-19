@@ -1,4 +1,4 @@
-package com.leesin.object2json.can;
+package com.leesin.json.object2json.can;
 
 import com.alibaba.fastjson.JSON;
 import javafx.util.Pair;
@@ -9,8 +9,8 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.regex.Pattern;
 
-import static com.leesin.object2json.can.ToStringUtils.ToStringTokenUtils.parseToken;
-import static com.leesin.object2json.can.ToStringUtils.ToStringTokenUtils.splitToken;
+import static com.leesin.json.object2json.can.ToStringUtils.ToStringTokenUtils.parseToken;
+import static com.leesin.json.object2json.can.ToStringUtils.ToStringTokenUtils.splitToken;
 
 /**
  * toString -> json

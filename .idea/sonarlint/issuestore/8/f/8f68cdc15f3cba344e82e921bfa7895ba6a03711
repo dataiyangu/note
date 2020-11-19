@@ -1,0 +1,73 @@
+
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì¢ççûÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(şŠÁğüÿÿÿÿ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö×Üøÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Í›øàşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô“İ÷ùÿÿÿÿ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢ˆÇğúÿÿÿÿ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş³è‰ûÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(£ÈÚšÿÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(°˜·œúÿÿÿÿ8‚Âß÷Õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(üÈû©şÿÿÿÿ8‚Âß÷Õ.
+s	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İòô.8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(í©Ç şÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+Y
+java:S4973"9Use the "equals" method if value comparison was intended.(£ÈÚšÿÿÿÿÿ8‚Âß÷Õ.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒñÛœ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†Ë»šøÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¨Âó¸úÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çó£ƒ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¦ê®8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ§ÄÚ8‚Âß÷Õ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÌÙL8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(Ë¦ê®8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(õåşüÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”²©‹8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(—ÀÔùÿÿÿÿ8‚Âß÷Õ.
+Y
+java:S4973"9Use the "equals" method if value comparison was intended.(í©Ç şÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÎíÒñşÿÿÿÿ8‚Âß÷Õ.
+s	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰†¶E8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„¦”°ıÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğØÎ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(Úşø§ùÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(—Œ€˜úÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îˆ¥ë8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìæò‚üÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŞçÍ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áÏôùÿÿÿÿ8‚Âß÷Õ.
+Y
+java:S4973"9Use the "equals" method if value comparison was intended.(ÅúÀèùÿÿÿÿ8‚Âß÷Õ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(˜Ş}8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚøÊ8‚Âß÷Õ.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â÷ÚÄıÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÛ¿¢ıÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ú‰ˆñøÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¼–™8‚Âß÷Õ.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“­ªÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó˜ıÚ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(îŞæúÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ˜º8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÃĞÆÿÿÿÿÿ8‚Âß÷Õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¨³°8‚Âß÷Õ.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯§½8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÿïšùÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ôùìöûÿÿÿÿ8‚Âß÷Õ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÅúÀèùÿÿÿÿ8‚Âß÷Õ.

@@ -1,4 +1,4 @@
-package com.leesin.object2json.cannot;
+package com.leesin.json.object2json.cannot;
 
 /**
  * @author: dongxueyuan
