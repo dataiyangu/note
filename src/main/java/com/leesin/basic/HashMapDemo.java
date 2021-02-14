@@ -13,7 +13,6 @@ public class HashMapDemo {
     public static void main(String[] args) {
         Map<String, String> hashMap = new HashMap<String, String>();
         hashMap.put("a", "b");
-
         System.out.println("a".hashCode());
     }
 }
