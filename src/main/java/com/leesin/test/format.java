@@ -1,43 +1,64 @@
-package com.leesin.test;
+import java.util.HashMap;
+import java.util.Map;
 
-public class format {
-    class Solution {
-        public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-            if (obstacleGrid == null || obstacleGrid.length == 0) {
-                return 1;
-            }
+class LRUCache {
 
-            int m = obstacleGrid.length;
-            int n = obstacleGrid[0].length;
-            int[][] result = new int[m][n];
-
-            for (int i = 0; i < m; i++) {
-                if (obstacleGrid[i][0] != 1) {
-                    result[i][0] = 1;
-                } else {
-                    break;
-                }
-            }
-
-            for (int i = 0; i < n; i++) {
-                if (obstacleGrid[0][i] != 1) {
-                    result[0][i] = 1;
-                } else {
-                    break;
-                }
-            }
-
-            for (int i = 1; i < m; i++) {
-                for (int j = 1; j < n; j++) {
-                    if (obstacleGrid[i][j] != 1) {
-                        result[i][j] = result[i - 1][j] + result[i][j - 1];
-                    } else {
-                        result[i][j] = 0;
-                    }
-                }
-            }
-
-            return result[m - 1][n - 1];
+    private class CacheNode {
+        int key;
+        int value;
+        CacheNode prev;
+        CacheNode next;
+        public CacheNode(int key, int value) {
+            this.key = key;
+            this.value = value;
+            this.prev = null;
+            this.next = null;
         }
+    }
+
+    Map<Integer, CacheNode> map = new HashMap<>();
+    int capacity = 0;
+    CacheNode head = new CacheNode(-1, -1);
+    CacheNode tail = new CacheNode(-1, -1);
+
+    public LRUCache(int capacity) {
+        this.capacity = capacity;
+        head.next = tail;
+        tail.prev = head;
+    }
+
+    public int get(int key) {
+        if (!map.containsKey(key)) {
+            return -1;
+        }
+
+        CacheNode current = map.get(key);
+        current.next.prev = current.prev;
+        current.prev.next = current.next;
+        moveToTail(current);
+        return current.value;
+    }
+
+    public void put(int key, int value) {
+        if (get(key) != -1) {
+            map.get(key).value = value;
+            return;
+        }
+
+        if (map.size() == capacity) {
+            map.remove(head.next.key);
+            head.next = head.next.next;
+            head.next.prev = head;
+        }
+        CacheNode current = new CacheNode(key, value);
+        map.put(key, current);
+        moveToTail(current);
+    }
+
+    public void moveToTail(CacheNode current) {
+        current.prev = tail.prev;
+        tail.prev = current;
+        current.prev.next = current;
+        current.next = tail;
     }
 }

@@ -38,6 +38,7 @@ public class Test {
         for (int i = 0; i < s1.length; i++) {
             System.out.println("-" + s1[i] + "-");
         }
+
     }
 
     public static void get(final Map map) {
