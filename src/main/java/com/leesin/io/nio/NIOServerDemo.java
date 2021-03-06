@@ -30,28 +30,22 @@ public class NIOServerDemo {
 
     public NIOServerDemo(int port) throws IOException {
         this.port = port;
-        //打开大门营业
+        // todo 声明 channel
         ServerSocketChannel serverSocketChannel = ServerSocketChannel.open();
-        //银行地址
         serverSocketChannel.bind(new InetSocketAddress(port));
-
-        //这个很关键,设置为非阻塞
         //BIO 升级版本 NIO，为了兼容BIO，NIO模型默认是采用阻塞式
         serverSocketChannel.configureBlocking(false);
 
-        //轮训器打开,大堂经理开始营业
         selector = Selector.open();
-        //将serverSocketChannel注册到selector,大堂经理到了大厅准备工作了.
+        // todo channel 注册到 selector
         serverSocketChannel.register(selector, SelectionKey.OP_ACCEPT);
     }
 
     public void listen() throws IOException {
         System.out.println("listen on "+port);
-        //轮训主线程
         while (true) {
-            //大唐经理在叫号
             selector.select();
-            //每次都拿到所有的号
+            // todo selector获取key
             Set<SelectionKey> selectionKeys = selector.selectedKeys();
             Iterator<SelectionKey> iterator = selectionKeys.iterator();
             //不断的迭代，这就叫轮询
@@ -60,8 +54,8 @@ public class NIOServerDemo {
                 SelectionKey key = iterator.next();
                 iterator.remove();
                 //每一个key代表一种状态
-                //每一个号对应一个业务
-                //数据就绪、数据刻度、数据可写等等。
+                //数据就绪、数据可读、数据可写等等。
+                // todo 每个可以对应一个状态：1 数据就绪：状态改为可读 2 数据可读：读取数据 3 数据可写：channel.write
                 process(key);
             }
         }
