@@ -92,12 +92,4 @@ public class SpringDataElasticSearchTest {
         List<Article> articleList = template.queryForList(query, Article.class);
         articleList.forEach(a-> System.out.println(a));
     }
-
-
-
-
-
-
-
-
 }
