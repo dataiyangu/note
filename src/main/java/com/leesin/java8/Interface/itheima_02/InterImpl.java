@@ -5,4 +5,14 @@ public class InterImpl implements Inter, Flyable {
     public void show() {
         System.out.println("show方法执行了");
     }
+
+    @Override
+    public void show1() {
+
+    }
+
+    @Override
+    public void show2() {
+
+    }
 }

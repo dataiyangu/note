@@ -1,6 +1,12 @@
 package com.leesin.java8.Interface.itheima_02;
 
 public interface Inter {
+    static void method1() {
+    }
+
+    static void method2() {
+    }
+
     void show();
 
     default void method(){
@@ -14,4 +20,8 @@ public interface Inter {
     static void test(){
         System.out.println("Inter 中的静态方法执行了");
     }
+
+    void show1();
+
+    void show2();
 }

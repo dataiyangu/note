@@ -14,17 +14,17 @@ package com.leesin.java8.Interface.itheima_03;
             在主方法中，按照多态的方式创建对象并使用
  */
 public class InterDemo {
-    public static void main(String[] args) {
+    public static <Inter> void main(String[] args) {
         //按照多态的方式创建对象并使用
-        Inter i = new InterImpl();
-        i.show1();
+        Inter i = (Inter) new InterImpl();
+        ((InterImpl) i).show1();
         System.out.println("--------");
-        i.show2();
+        ((InterImpl) i).show2();
         System.out.println("--------");
 
-        Inter.method1();
-        System.out.println("--------");
-        Inter.method2();
+        // Inter.method1();
+        // System.out.println("--------");
+        // Inter.method2();
 
     }
 }

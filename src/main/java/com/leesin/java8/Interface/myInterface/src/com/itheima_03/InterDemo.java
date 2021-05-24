@@ -1,4 +1,7 @@
 package com.leesin.java8.Interface.myInterface.src.com.itheima_03;
+
+import com.leesin.java8.Interface.itheima_02.Inter;
+
 /*
     需求：
         1:定义一个接口Inter，里面有四个方法：二个默认方法，二个静态方法

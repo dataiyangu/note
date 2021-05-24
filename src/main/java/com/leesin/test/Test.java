@@ -1,63 +1,55 @@
 package com.leesin.test;
 
-import java.util.Map;
+import com.google.common.util.concurrent.ThreadFactoryBuilder;
+import lombok.extern.slf4j.Slf4j;
 
-/**
- * @author: dongxueyuan
- * @date: Created in 2020/10/25 5:47 下午
- */
-public class Test {
+import java.util.concurrent.*;
+
+@Slf4j
+class Test {
     public static void main(String[] args) {
-        // Map<String, String> map = new HashMap<>();
-        // get(map);
-        // System.out.println(map.get(null));
-        // System.out.println(map.get("2"));
-        // Arrays.asList(",1".split(",")).forEach(i -> System.out.println("- " + i));
-        // ArrayList list = new ArrayList();
+        // ArrayList<Integer> integers = Lists.newArrayList(1, 2, 3);
+        // List<Integer> collect = integers.stream().filter(i -> i > 4).collect(Collectors.toList());
+        // log.error("haha");
+        // Integer a = null;
+        // // test(a);
+        //
+        // ArrayList<Integer> list = Lists.newArrayList();
         // list.add(1);
-        // list.add(null);
         // list.add(2);
-        // list.remove(null);
-        // list.forEach(i -> System.out.println(i));
+        // list.add(3);
+        // list.add(4);
+        // long count = list.stream().filter(i -> i > 3).count();
+        // List<Integer> collect = list.stream().collect(Collectors.toList());
+        // System.out.println(count);
+        // System.out.println(list);
+        // System.out.println(collect);
+        // @Bean
+         ExecutorService THREAD_POOL = new ThreadPoolExecutor(6,
+                6,
+                0L,
+                TimeUnit.MILLISECONDS,
+                new LinkedBlockingDeque<>(),
+                new ThreadFactoryBuilder().setNameFormat("reviewServiceExecutor-Thread-%d").build(),
+                new ThreadPoolExecutor.CallerRunsPolicy());
 
-        // boolean b = false;
-        // if (!b) {
+        CompletableFuture<Object> f = CompletableFuture.supplyAsync(() -> {
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            System.out.println("f");
+            return null;
+        });
 
-        //     System.out.println("aaa");
-        // }
-        // if (b == false) {
-        //     System.out.println("bbb");
-        // }
-        // String a = "";
-        // a.length()
-        char[] w = {'a', 'b'};
-        // System.out.println(w.toString());
-        // System.out.println(new String(w));
-        String s = new String("a  b");
-        String[] s1 = s.split(" ");
-        for (int i = 0; i < s1.length; i++) {
-            System.out.println("-" + s1[i] + "-");
-        }
+        System.out.println("hahaha");
+        throw new RuntimeException("123");
+
 
     }
 
-    public static void get(final Map map) {
-        map.put("1", "1");
-    }
-
-    public int climbStairs(int n) {
-        if (n < 3) {
-            return n;
-        }
-
-        int[] step = new int[n];
-        step[0] = 1;
-        step[1] = 2;
-        for (int i = 2; i <= n; i++) {
-            step[i % 3] = step[(i - 1) % 3] + step[(i - 2) % 3];
-        }
-        return step[(n - 1) % 3];
-    }
+    // public static void test(int a) {
+    //     System.out.println(a);
+    // }
 }
-
-
