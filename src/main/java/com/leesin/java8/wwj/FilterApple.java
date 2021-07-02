@@ -1,4 +1,4 @@
-package com.wangwenjun.java8;
+package com.leesin.java8.wwj;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,14 +13,14 @@ public class FilterApple {
     @FunctionalInterface
     public interface AppleFilter {
 
-        boolean filter(Apple apple);
+        boolean filter(com.wangwenjun.java8.Apple apple);
 
     }
 
-    public static List<Apple> findApple(List<Apple> apples, AppleFilter appleFilter) {
-        List<Apple> list = new ArrayList<>();
+    public static List<com.wangwenjun.java8.Apple> findApple(List<com.wangwenjun.java8.Apple> apples, AppleFilter appleFilter) {
+        List<com.wangwenjun.java8.Apple> list = new ArrayList<>();
 
-        for (Apple apple : apples) {
+        for (com.wangwenjun.java8.Apple apple : apples) {
             if (appleFilter.filter(apple))
                 list.add(apple);
         }
@@ -30,7 +30,7 @@ public class FilterApple {
     public static class GreenAnd160WeightFilter implements AppleFilter {
 
         @Override
-        public boolean filter(Apple apple) {
+        public boolean filter(com.wangwenjun.java8.Apple apple) {
             return (apple.getColor().equals("green") && apple.getWeight() >= 160);
         }
     }
@@ -38,16 +38,16 @@ public class FilterApple {
     public static class YellowLess150WeightFilter implements AppleFilter {
 
         @Override
-        public boolean filter(Apple apple) {
+        public boolean filter(com.wangwenjun.java8.Apple apple) {
             return (apple.getColor().equals("yellow") && apple.getWeight() < 150);
         }
     }
 
-    public static List<Apple> findGreenApple(List<Apple> apples) {
+    public static List<com.wangwenjun.java8.Apple> findGreenApple(List<com.wangwenjun.java8.Apple> apples) {
 
-        List<Apple> list = new ArrayList<>();
+        List<com.wangwenjun.java8.Apple> list = new ArrayList<>();
 
-        for (Apple apple : apples) {
+        for (com.wangwenjun.java8.Apple apple : apples) {
             if ("green".equals(apple.getColor())) {
                 list.add(apple);
             }
@@ -56,10 +56,10 @@ public class FilterApple {
         return list;
     }
 
-    public static List<Apple> findApple(List<Apple> apples, String color) {
-        List<Apple> list = new ArrayList<>();
+    public static List<com.wangwenjun.java8.Apple> findApple(List<com.wangwenjun.java8.Apple> apples, String color) {
+        List<com.wangwenjun.java8.Apple> list = new ArrayList<>();
 
-        for (Apple apple : apples) {
+        for (com.wangwenjun.java8.Apple apple : apples) {
             if (color.equals(apple.getColor())) {
                 list.add(apple);
             }
@@ -69,7 +69,7 @@ public class FilterApple {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        List<Apple> list = Arrays.asList(new Apple("green", 150), new Apple("yellow", 120), new Apple("green", 170));
+        List<com.wangwenjun.java8.Apple> list = Arrays.asList(new com.wangwenjun.java8.Apple("green", 150), new com.wangwenjun.java8.Apple("yellow", 120), new com.wangwenjun.java8.Apple("green", 170));
 //        List<Apple> greenApples = findGreenApple(list);
 //        assert greenApples.size() == 2;
 
@@ -91,7 +91,7 @@ public class FilterApple {
 
         System.out.println(yellowList);*/
 
-        List<Apple> lambdaResult = findApple(list, apple -> apple.getColor().equals("green"));
+        List<com.wangwenjun.java8.Apple> lambdaResult = findApple(list, apple -> apple.getColor().equals("green"));
 
         System.out.println(lambdaResult);
 
