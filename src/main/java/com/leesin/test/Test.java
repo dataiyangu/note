@@ -1,6 +1,9 @@
 package com.leesin.test;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
+import lombok.Builder;
+import lombok.Data;
+import lombok.experimental.Tolerate;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.*;
@@ -42,9 +45,7 @@ class Test {
             System.out.println("f");
             return null;
         });
-
         System.out.println("hahaha");
-        throw new RuntimeException("123");
 
 
     }
@@ -52,4 +53,15 @@ class Test {
     // public static void test(int a) {
     //     System.out.println(a);
     // }
+
+    @Builder
+    @Data
+    public static class AClass {
+        private String A;
+        private String B;
+
+        @Tolerate
+        public AClass() {
+        }
+    }
 }
